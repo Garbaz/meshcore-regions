@@ -248,6 +248,17 @@
         {
           "code": "nl-nh-ams",
           "name": "ams",
+          "regions": [
+            {
+              "code": "nl-nh-ams-zo",
+              "name": "zo",
+              "regions": []
+            }
+          ]
+        },
+        {
+          "code": "nl-nh-amv",
+          "name": "amv",
           "regions": []
         },
         {
@@ -268,6 +279,16 @@
         {
           "code": "nl-nh-cas",
           "name": "cas",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-dim",
+          "name": "dim",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-dvt",
+          "name": "dvt",
           "regions": []
         },
         {
@@ -301,6 +322,11 @@
           "regions": []
         },
         {
+          "code": "nl-nh-odr",
+          "name": "odr",
+          "regions": []
+        },
+        {
           "code": "nl-nh-sbc",
           "name": "sbc",
           "regions": []
@@ -314,6 +340,11 @@
           "code": "nl-nh-utg",
           "name": "utg",
           "regions": []
+        },
+        {
+          "code": "nl-nh-wsp",
+          "name": "wsp",
+          "regions": []
         }
       ]
     },
@@ -325,6 +356,11 @@
     {
       "code": "nl-noord",
       "name": "noord",
+      "regions": []
+    },
+    {
+      "code": "nl-nu",
+      "name": "nu",
       "regions": []
     },
     {
@@ -393,6 +429,11 @@
       "name": "Utrecht",
       "regions": [
         {
+          "code": "nl-ut-abc",
+          "name": "abc",
+          "regions": []
+        },
+        {
           "code": "nl-ut-doo",
           "name": "doo",
           "regions": []
@@ -400,6 +441,11 @@
         {
           "code": "nl-ut-drb",
           "name": "drb",
+          "regions": []
+        },
+        {
+          "code": "nl-ut-rve",
+          "name": "rve",
           "regions": []
         }
       ]
@@ -437,6 +483,11 @@
     {
       "code": "nl-wrm",
       "name": "wrm",
+      "regions": []
+    },
+    {
+      "code": "nl-wsp",
+      "name": "wsp",
       "regions": []
     },
     {

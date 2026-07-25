@@ -55,6 +55,11 @@
       "regions": []
     },
     {
+      "code": "us-tx",
+      "name": "tx",
+      "regions": []
+    },
+    {
       "code": "us-wa",
       "name": "wa",
       "regions": []
