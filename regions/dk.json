@@ -27,6 +27,11 @@
       "name": "fyn",
       "regions": [
         {
+          "code": "dk-fyn-assens",
+          "name": "assens",
+          "regions": []
+        },
+        {
           "code": "dk-fyn-faaborg",
           "name": "faaborg",
           "regions": []

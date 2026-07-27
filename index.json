@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T05:36:35Z",
+  "generated_at": "2026-07-27T06:20:43Z",
   "tree": [
     {
       "code": "ad",
@@ -3809,6 +3809,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-mn",
+              "name": "mn",
+              "regions": []
+            },
+            {
               "code": "de-bw-muel",
               "name": "muel",
               "regions": []
@@ -4244,6 +4249,11 @@
                   "regions": []
                 }
               ]
+            },
+            {
+              "code": "de-by-ul",
+              "name": "ul",
+              "regions": []
             },
             {
               "code": "de-by-wue",
@@ -5402,6 +5412,11 @@
           "name": "fyn",
           "regions": [
             {
+              "code": "dk-fyn-assens",
+              "name": "assens",
+              "regions": []
+            },
+            {
               "code": "dk-fyn-faaborg",
               "name": "faaborg",
               "regions": []
@@ -6086,6 +6101,11 @@
         {
           "code": "it-umb",
           "name": "umb",
+          "regions": []
+        },
+        {
+          "code": "it-ven",
+          "name": "ven",
           "regions": []
         }
       ]
@@ -7014,6 +7034,11 @@
         {
           "code": "pl-kgr",
           "name": "kgr",
+          "regions": []
+        },
+        {
+          "code": "pl-kp",
+          "name": "kp",
           "regions": []
         },
         {
@@ -10654,6 +10679,10 @@
       "name": "loe"
     },
     {
+      "path": "de-bw-mn",
+      "name": "mn"
+    },
+    {
       "path": "de-bw-muel",
       "name": "muel"
     },
@@ -10996,6 +11025,10 @@
     {
       "path": "de-by-ufr-sw",
       "name": "sw"
+    },
+    {
+      "path": "de-by-ul",
+      "name": "ul"
     },
     {
       "path": "de-by-wue",
@@ -11870,6 +11903,10 @@
       "name": "fyn"
     },
     {
+      "path": "dk-fyn-assens",
+      "name": "assens"
+    },
+    {
       "path": "dk-fyn-faaborg",
       "name": "faaborg"
     },
@@ -12416,6 +12453,10 @@
     {
       "path": "it-umb",
       "name": "umb"
+    },
+    {
+      "path": "it-ven",
+      "name": "ven"
     },
     {
       "path": "je",
@@ -13160,6 +13201,10 @@
     {
       "path": "pl-kgr",
       "name": "kgr"
+    },
+    {
+      "path": "pl-kp",
+      "name": "kp"
     },
     {
       "path": "pl-kra",

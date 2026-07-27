@@ -284,6 +284,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-mn",
+          "name": "mn",
+          "regions": []
+        },
+        {
           "code": "de-bw-muel",
           "name": "muel",
           "regions": []
@@ -719,6 +724,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-by-ul",
+          "name": "ul",
+          "regions": []
         },
         {
           "code": "de-by-wue",
