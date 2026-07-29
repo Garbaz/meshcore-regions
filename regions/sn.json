@@ -1,5 +1,11 @@
 {
   "code": "sn",
   "name": "Senegal",
-  "regions": []
+  "regions": [
+    {
+      "code": "sn-dob",
+      "name": "dob",
+      "regions": []
+    }
+  ]
 }

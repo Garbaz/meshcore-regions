@@ -3,9 +3,19 @@
   "name": "Portugal",
   "regions": [
     {
+      "code": "pt-anepc",
+      "name": "anepc",
+      "regions": []
+    },
+    {
       "code": "pt-lis",
       "name": "lis",
       "regions": [
+        {
+          "code": "pt-lis-lmakat",
+          "name": "lmakat",
+          "regions": []
+        },
         {
           "code": "pt-lis-mfr",
           "name": "mfr",

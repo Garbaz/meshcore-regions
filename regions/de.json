@@ -814,6 +814,11 @@
       ]
     },
     {
+      "code": "de-ham",
+      "name": "ham",
+      "regions": []
+    },
+    {
       "code": "de-hansemesh",
       "name": "hansemesh",
       "regions": []
@@ -1552,6 +1557,11 @@
         {
           "code": "de-sh-slfl",
           "name": "Schleswig-Flensburg",
+          "regions": []
+        },
+        {
+          "code": "de-sh-wacken",
+          "name": "wacken",
           "regions": []
         }
       ]
