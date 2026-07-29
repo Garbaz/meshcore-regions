@@ -50,6 +50,11 @@
           "code": "pl-ma-kgr",
           "name": "kgr",
           "regions": []
+        },
+        {
+          "code": "pl-ma-kns",
+          "name": "kns",
+          "regions": []
         }
       ]
     },

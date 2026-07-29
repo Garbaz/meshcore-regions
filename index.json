@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:20:43Z",
+  "generated_at": "2026-07-29T05:44:13Z",
   "tree": [
     {
       "code": "ad",
@@ -3263,7 +3263,13 @@
     {
       "code": "bv",
       "name": "Bouvet Island",
-      "regions": []
+      "regions": [
+        {
+          "code": "bv-cv",
+          "name": "cv",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "bw",
@@ -4339,6 +4345,11 @@
           ]
         },
         {
+          "code": "de-ham",
+          "name": "ham",
+          "regions": []
+        },
+        {
           "code": "de-hansemesh",
           "name": "hansemesh",
           "regions": []
@@ -5078,6 +5089,11 @@
               "code": "de-sh-slfl",
               "name": "Schleswig-Flensburg",
               "regions": []
+            },
+            {
+              "code": "de-sh-wacken",
+              "name": "wacken",
+              "regions": []
             }
           ]
         },
@@ -5471,6 +5487,11 @@
         {
           "code": "dk-sdj",
           "name": "sdj",
+          "regions": []
+        },
+        {
+          "code": "dk-sdjr",
+          "name": "sdjr",
           "regions": []
         },
         {
@@ -7074,6 +7095,11 @@
               "code": "pl-ma-kgr",
               "name": "kgr",
               "regions": []
+            },
+            {
+              "code": "pl-ma-kns",
+              "name": "kns",
+              "regions": []
             }
           ]
         },
@@ -7150,9 +7176,19 @@
       "name": "Portugal",
       "regions": [
         {
+          "code": "pt-anepc",
+          "name": "anepc",
+          "regions": []
+        },
+        {
           "code": "pt-lis",
           "name": "lis",
           "regions": [
+            {
+              "code": "pt-lis-lmakat",
+              "name": "lmakat",
+              "regions": []
+            },
             {
               "code": "pt-lis-mfr",
               "name": "mfr",
@@ -7194,6 +7230,11 @@
         {
           "code": "ro-b",
           "name": "b",
+          "regions": []
+        },
+        {
+          "code": "ro-bv",
+          "name": "bv",
           "regions": []
         },
         {
@@ -7359,7 +7400,13 @@
     {
       "code": "sn",
       "name": "Senegal",
-      "regions": []
+      "regions": [
+        {
+          "code": "sn-dob",
+          "name": "dob",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "so",
@@ -10247,6 +10294,10 @@
       "name": "Bouvet Island"
     },
     {
+      "path": "bv-cv",
+      "name": "cv"
+    },
+    {
       "path": "bw",
       "name": "Botswana"
     },
@@ -11095,6 +11146,10 @@
       "name": "hi"
     },
     {
+      "path": "de-ham",
+      "name": "ham"
+    },
+    {
       "path": "de-hansemesh",
       "name": "hansemesh"
     },
@@ -11659,6 +11714,10 @@
       "name": "Schleswig-Flensburg"
     },
     {
+      "path": "de-sh-wacken",
+      "name": "wacken"
+    },
+    {
       "path": "de-sl",
       "name": "Saarland"
     },
@@ -11949,6 +12008,10 @@
     {
       "path": "dk-sdj",
       "name": "sdj"
+    },
+    {
+      "path": "dk-sdjr",
+      "name": "sdjr"
     },
     {
       "path": "dk-sdk",
@@ -13235,6 +13298,10 @@
       "name": "kgr"
     },
     {
+      "path": "pl-ma-kns",
+      "name": "kns"
+    },
+    {
       "path": "pl-maz",
       "name": "maz"
     },
@@ -13291,8 +13358,16 @@
       "name": "Portugal"
     },
     {
+      "path": "pt-anepc",
+      "name": "anepc"
+    },
+    {
       "path": "pt-lis",
       "name": "lis"
+    },
+    {
+      "path": "pt-lis-lmakat",
+      "name": "lmakat"
     },
     {
       "path": "pt-lis-mfr",
@@ -13329,6 +13404,10 @@
     {
       "path": "ro-b",
       "name": "b"
+    },
+    {
+      "path": "ro-bv",
+      "name": "bv"
     },
     {
       "path": "ro-cs",
@@ -13461,6 +13540,10 @@
     {
       "path": "sn",
       "name": "Senegal"
+    },
+    {
+      "path": "sn-dob",
+      "name": "dob"
     },
     {
       "path": "so",

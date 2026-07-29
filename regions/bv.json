@@ -1,5 +1,11 @@
 {
   "code": "bv",
   "name": "Bouvet Island",
-  "regions": []
+  "regions": [
+    {
+      "code": "bv-cv",
+      "name": "cv",
+      "regions": []
+    }
+  ]
 }
