@@ -420,6 +420,11 @@
       "regions": []
     },
     {
+      "code": "nl-stk",
+      "name": "stk",
+      "regions": []
+    },
+    {
       "code": "nl-tlb",
       "name": "tlb",
       "regions": []

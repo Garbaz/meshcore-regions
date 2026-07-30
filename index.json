@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T05:44:13Z",
+  "generated_at": "2026-07-30T05:32:53Z",
   "tree": [
     {
       "code": "ad",
@@ -3203,7 +3203,13 @@
     {
       "code": "bg",
       "name": "Bulgaria",
-      "regions": []
+      "regions": [
+        {
+          "code": "bg-nw",
+          "name": "nw",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "bh",
@@ -4326,6 +4332,11 @@
         {
           "code": "de-fri",
           "name": "fri",
+          "regions": []
+        },
+        {
+          "code": "de-gl",
+          "name": "gl",
           "regions": []
         },
         {
@@ -5617,8 +5628,23 @@
           "regions": []
         },
         {
+          "code": "fr-22",
+          "name": "22",
+          "regions": []
+        },
+        {
           "code": "fr-25",
           "name": "25",
+          "regions": []
+        },
+        {
+          "code": "fr-29",
+          "name": "29",
+          "regions": []
+        },
+        {
+          "code": "fr-35",
+          "name": "35",
           "regions": []
         },
         {
@@ -5629,6 +5655,11 @@
         {
           "code": "fr-44",
           "name": "44",
+          "regions": []
+        },
+        {
+          "code": "fr-56",
+          "name": "56",
           "regions": []
         },
         {
@@ -6842,6 +6873,11 @@
         {
           "code": "nl-rtm",
           "name": "rtm",
+          "regions": []
+        },
+        {
+          "code": "nl-stk",
+          "name": "stk",
           "regions": []
         },
         {
@@ -10242,6 +10278,10 @@
       "name": "Bulgaria"
     },
     {
+      "path": "bg-nw",
+      "name": "nw"
+    },
+    {
       "path": "bh",
       "name": "Bahrain"
     },
@@ -11132,6 +11172,10 @@
     {
       "path": "de-fri",
       "name": "fri"
+    },
+    {
+      "path": "de-gl",
+      "name": "gl"
     },
     {
       "path": "de-goe",
@@ -12118,8 +12162,20 @@
       "name": "01"
     },
     {
+      "path": "fr-22",
+      "name": "22"
+    },
+    {
       "path": "fr-25",
       "name": "25"
+    },
+    {
+      "path": "fr-29",
+      "name": "29"
+    },
+    {
+      "path": "fr-35",
+      "name": "35"
     },
     {
       "path": "fr-38",
@@ -12128,6 +12184,10 @@
     {
       "path": "fr-44",
       "name": "44"
+    },
+    {
+      "path": "fr-56",
+      "name": "56"
     },
     {
       "path": "fr-67",
@@ -13096,6 +13156,10 @@
     {
       "path": "nl-rtm",
       "name": "rtm"
+    },
+    {
+      "path": "nl-stk",
+      "name": "stk"
     },
     {
       "path": "nl-tlb",
