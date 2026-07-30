@@ -8,8 +8,23 @@
       "regions": []
     },
     {
+      "code": "fr-22",
+      "name": "22",
+      "regions": []
+    },
+    {
       "code": "fr-25",
       "name": "25",
+      "regions": []
+    },
+    {
+      "code": "fr-29",
+      "name": "29",
+      "regions": []
+    },
+    {
+      "code": "fr-35",
+      "name": "35",
       "regions": []
     },
     {
@@ -20,6 +35,11 @@
     {
       "code": "fr-44",
       "name": "44",
+      "regions": []
+    },
+    {
+      "code": "fr-56",
+      "name": "56",
       "regions": []
     },
     {
