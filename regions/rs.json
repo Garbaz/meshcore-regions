@@ -1,5 +1,11 @@
 {
   "code": "rs",
   "name": "Serbia",
-  "regions": []
+  "regions": [
+    {
+      "code": "rs-bg",
+      "name": "bg",
+      "regions": []
+    }
+  ]
 }
