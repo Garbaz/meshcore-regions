@@ -10,7 +10,38 @@
     {
       "code": "au-nsw",
       "name": "nsw",
-      "regions": []
+      "regions": [
+        {
+          "code": "au-nsw-bhs",
+          "name": "bhs",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-bmt",
+          "name": "bmt",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-cw",
+          "name": "cw",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-mge",
+          "name": "mge",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-ntl",
+          "name": "ntl",
+          "regions": []
+        },
+        {
+          "code": "au-nsw-oag",
+          "name": "oag",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "au-qld",

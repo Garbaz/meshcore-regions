@@ -60,7 +60,23 @@
     {
       "code": "nl-dr",
       "name": "Drenthe",
-      "regions": []
+      "regions": [
+        {
+          "code": "nl-dr-gss",
+          "name": "gss",
+          "regions": []
+        },
+        {
+          "code": "nl-dr-nb3",
+          "name": "nb3",
+          "regions": []
+        },
+        {
+          "code": "nl-dr-ndi",
+          "name": "ndi",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "nl-ede",
@@ -136,6 +152,36 @@
         {
           "code": "nl-gr-les",
           "name": "les",
+          "regions": []
+        },
+        {
+          "code": "nl-gr-mus",
+          "name": "mus",
+          "regions": []
+        },
+        {
+          "code": "nl-gr-npk",
+          "name": "npk",
+          "regions": []
+        },
+        {
+          "code": "nl-gr-pek",
+          "name": "pek",
+          "regions": []
+        },
+        {
+          "code": "nl-gr-stk",
+          "name": "stk",
+          "regions": []
+        },
+        {
+          "code": "nl-gr-vrt",
+          "name": "vrt",
+          "regions": []
+        },
+        {
+          "code": "nl-gr-zui",
+          "name": "zui",
           "regions": []
         }
       ]

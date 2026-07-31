@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T05:32:53Z",
+  "generated_at": "2026-07-31T05:58:52Z",
   "tree": [
     {
       "code": "ad",
@@ -208,7 +208,38 @@
         {
           "code": "au-nsw",
           "name": "nsw",
-          "regions": []
+          "regions": [
+            {
+              "code": "au-nsw-bhs",
+              "name": "bhs",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-bmt",
+              "name": "bmt",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-cw",
+              "name": "cw",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-mge",
+              "name": "mge",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-ntl",
+              "name": "ntl",
+              "regions": []
+            },
+            {
+              "code": "au-nsw-oag",
+              "name": "oag",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "au-qld",
@@ -3962,6 +3993,11 @@
               "regions": []
             },
             {
+              "code": "de-by-da",
+              "name": "da",
+              "regions": []
+            },
+            {
               "code": "de-by-dah",
               "name": "dah",
               "regions": []
@@ -4046,6 +4082,11 @@
             {
               "code": "de-by-kt",
               "name": "kt",
+              "regions": []
+            },
+            {
+              "code": "de-by-l",
+              "name": "l",
               "regions": []
             },
             {
@@ -4772,6 +4813,11 @@
               "regions": []
             },
             {
+              "code": "de-nw-bf",
+              "name": "bf",
+              "regions": []
+            },
+            {
               "code": "de-nw-bi",
               "name": "bi",
               "regions": []
@@ -4921,6 +4967,11 @@
             {
               "code": "de-nw-st",
               "name": "st",
+              "regions": []
+            },
+            {
+              "code": "de-nw-su",
+              "name": "su",
               "regions": []
             },
             {
@@ -6516,7 +6567,23 @@
         {
           "code": "nl-dr",
           "name": "Drenthe",
-          "regions": []
+          "regions": [
+            {
+              "code": "nl-dr-gss",
+              "name": "gss",
+              "regions": []
+            },
+            {
+              "code": "nl-dr-nb3",
+              "name": "nb3",
+              "regions": []
+            },
+            {
+              "code": "nl-dr-ndi",
+              "name": "ndi",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "nl-ede",
@@ -6592,6 +6659,36 @@
             {
               "code": "nl-gr-les",
               "name": "les",
+              "regions": []
+            },
+            {
+              "code": "nl-gr-mus",
+              "name": "mus",
+              "regions": []
+            },
+            {
+              "code": "nl-gr-npk",
+              "name": "npk",
+              "regions": []
+            },
+            {
+              "code": "nl-gr-pek",
+              "name": "pek",
+              "regions": []
+            },
+            {
+              "code": "nl-gr-stk",
+              "name": "stk",
+              "regions": []
+            },
+            {
+              "code": "nl-gr-vrt",
+              "name": "vrt",
+              "regions": []
+            },
+            {
+              "code": "nl-gr-zui",
+              "name": "zui",
               "regions": []
             }
           ]
@@ -7181,6 +7278,11 @@
           "regions": []
         },
         {
+          "code": "pl-wlkp",
+          "name": "wlkp",
+          "regions": []
+        },
+        {
           "code": "pl-wp",
           "name": "wp",
           "regions": []
@@ -7298,7 +7400,13 @@
     {
       "code": "rs",
       "name": "Serbia",
-      "regions": []
+      "regions": [
+        {
+          "code": "rs-bg",
+          "name": "bg",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "ru",
@@ -7892,6 +8000,30 @@
     {
       "path": "au-nsw",
       "name": "nsw"
+    },
+    {
+      "path": "au-nsw-bhs",
+      "name": "bhs"
+    },
+    {
+      "path": "au-nsw-bmt",
+      "name": "bmt"
+    },
+    {
+      "path": "au-nsw-cw",
+      "name": "cw"
+    },
+    {
+      "path": "au-nsw-mge",
+      "name": "mge"
+    },
+    {
+      "path": "au-nsw-ntl",
+      "name": "ntl"
+    },
+    {
+      "path": "au-nsw-oag",
+      "name": "oag"
     },
     {
       "path": "au-qld",
@@ -10882,6 +11014,10 @@
       "name": "bwald"
     },
     {
+      "path": "de-by-da",
+      "name": "da"
+    },
+    {
       "path": "de-by-dah",
       "name": "dah"
     },
@@ -10948,6 +11084,10 @@
     {
       "path": "de-by-kt",
       "name": "kt"
+    },
+    {
+      "path": "de-by-l",
+      "name": "l"
     },
     {
       "path": "de-by-la",
@@ -11514,6 +11654,10 @@
       "name": "Nordrhein-Westfalen"
     },
     {
+      "path": "de-nw-bf",
+      "name": "bf"
+    },
+    {
       "path": "de-nw-bi",
       "name": "bi"
     },
@@ -11632,6 +11776,10 @@
     {
       "path": "de-nw-st",
       "name": "st"
+    },
+    {
+      "path": "de-nw-su",
+      "name": "su"
     },
     {
       "path": "de-nw-te",
@@ -12878,6 +13026,18 @@
       "name": "Drenthe"
     },
     {
+      "path": "nl-dr-gss",
+      "name": "gss"
+    },
+    {
+      "path": "nl-dr-nb3",
+      "name": "nb3"
+    },
+    {
+      "path": "nl-dr-ndi",
+      "name": "ndi"
+    },
+    {
       "path": "nl-ede",
       "name": "ede"
     },
@@ -12936,6 +13096,30 @@
     {
       "path": "nl-gr-les",
       "name": "les"
+    },
+    {
+      "path": "nl-gr-mus",
+      "name": "mus"
+    },
+    {
+      "path": "nl-gr-npk",
+      "name": "npk"
+    },
+    {
+      "path": "nl-gr-pek",
+      "name": "pek"
+    },
+    {
+      "path": "nl-gr-stk",
+      "name": "stk"
+    },
+    {
+      "path": "nl-gr-vrt",
+      "name": "vrt"
+    },
+    {
+      "path": "nl-gr-zui",
+      "name": "zui"
     },
     {
       "path": "nl-grq",
@@ -13398,6 +13582,10 @@
       "name": "sl"
     },
     {
+      "path": "pl-wlkp",
+      "name": "wlkp"
+    },
+    {
       "path": "pl-wp",
       "name": "wp"
     },
@@ -13492,6 +13680,10 @@
     {
       "path": "rs",
       "name": "Serbia"
+    },
+    {
+      "path": "rs-bg",
+      "name": "bg"
     },
     {
       "path": "ru",
