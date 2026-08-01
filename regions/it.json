@@ -8,6 +8,11 @@
       "regions": []
     },
     {
+      "code": "it-ch",
+      "name": "ch",
+      "regions": []
+    },
+    {
       "code": "it-emi",
       "name": "emi",
       "regions": []
@@ -37,12 +42,23 @@
     {
       "code": "it-li",
       "name": "li",
-      "regions": []
+      "regions": [
+        {
+          "code": "it-li-im",
+          "name": "im",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "it-lig",
       "name": "Liguria",
       "regions": [
+        {
+          "code": "it-lig-im",
+          "name": "im",
+          "regions": []
+        },
         {
           "code": "it-lig-sp",
           "name": "Spezia",
@@ -122,6 +138,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "it-sar",
+      "name": "sar",
+      "regions": []
     },
     {
       "code": "it-tos",
