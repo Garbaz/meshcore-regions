@@ -3,6 +3,11 @@
   "name": "Bulgaria",
   "regions": [
     {
+      "code": "bg-22",
+      "name": "22",
+      "regions": []
+    },
+    {
       "code": "bg-nw",
       "name": "nw",
       "regions": []

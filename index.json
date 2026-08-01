@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:58:52Z",
+  "generated_at": "2026-08-01T05:48:12Z",
   "tree": [
     {
       "code": "ad",
@@ -3236,6 +3236,11 @@
       "name": "Bulgaria",
       "regions": [
         {
+          "code": "bg-22",
+          "name": "22",
+          "regions": []
+        },
+        {
           "code": "bg-nw",
           "name": "nw",
           "regions": []
@@ -6075,6 +6080,11 @@
           "regions": []
         },
         {
+          "code": "it-ch",
+          "name": "ch",
+          "regions": []
+        },
+        {
           "code": "it-emi",
           "name": "emi",
           "regions": []
@@ -6104,12 +6114,23 @@
         {
           "code": "it-li",
           "name": "li",
-          "regions": []
+          "regions": [
+            {
+              "code": "it-li-im",
+              "name": "im",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "it-lig",
           "name": "Liguria",
           "regions": [
+            {
+              "code": "it-lig-im",
+              "name": "im",
+              "regions": []
+            },
             {
               "code": "it-lig-sp",
               "name": "Spezia",
@@ -6189,6 +6210,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "it-sar",
+          "name": "sar",
+          "regions": []
         },
         {
           "code": "it-tos",
@@ -10410,6 +10436,10 @@
       "name": "Bulgaria"
     },
     {
+      "path": "bg-22",
+      "name": "22"
+    },
+    {
       "path": "bg-nw",
       "name": "nw"
     },
@@ -12626,6 +12656,10 @@
       "name": "abr"
     },
     {
+      "path": "it-ch",
+      "name": "ch"
+    },
+    {
       "path": "it-emi",
       "name": "emi"
     },
@@ -12650,8 +12684,16 @@
       "name": "li"
     },
     {
+      "path": "it-li-im",
+      "name": "im"
+    },
+    {
       "path": "it-lig",
       "name": "Liguria"
+    },
+    {
+      "path": "it-lig-im",
+      "name": "im"
     },
     {
       "path": "it-lig-sp",
@@ -12712,6 +12754,10 @@
     {
       "path": "it-pie-to",
       "name": "Torino"
+    },
+    {
+      "path": "it-sar",
+      "name": "sar"
     },
     {
       "path": "it-tos",
