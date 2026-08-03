@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:48:49Z",
+  "generated_at": "2026-08-03T06:13:00Z",
   "tree": [
     {
       "code": "ad",
@@ -3862,6 +3862,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-ma",
+              "name": "ma",
+              "regions": []
+            },
+            {
               "code": "de-bw-mn",
               "name": "mn",
               "regions": []
@@ -6106,6 +6111,11 @@
           ]
         },
         {
+          "code": "it-fr",
+          "name": "fr",
+          "regions": []
+        },
+        {
           "code": "it-laz",
           "name": "Lazio",
           "regions": [
@@ -6219,6 +6229,11 @@
         {
           "code": "it-sar",
           "name": "sar",
+          "regions": []
+        },
+        {
+          "code": "it-taa",
+          "name": "taa",
           "regions": []
         },
         {
@@ -6388,7 +6403,13 @@
     {
       "code": "mc",
       "name": "Monaco",
-      "regions": []
+      "regions": [
+        {
+          "code": "mc-free",
+          "name": "free",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "md",
@@ -6600,6 +6621,11 @@
           "name": "Drenthe",
           "regions": [
             {
+              "code": "nl-dr-boo",
+              "name": "boo",
+              "regions": []
+            },
+            {
               "code": "nl-dr-gss",
               "name": "gss",
               "regions": []
@@ -6619,6 +6645,11 @@
         {
           "code": "nl-ede",
           "name": "ede",
+          "regions": []
+        },
+        {
+          "code": "nl-emn",
+          "name": "emn",
           "regions": []
         },
         {
@@ -6979,6 +7010,11 @@
             {
               "code": "nl-ov-sew",
               "name": "sew",
+              "regions": []
+            },
+            {
+              "code": "nl-ov-sth",
+              "name": "sth",
               "regions": []
             },
             {
@@ -10941,6 +10977,10 @@
       "name": "loe"
     },
     {
+      "path": "de-bw-ma",
+      "name": "ma"
+    },
+    {
       "path": "de-bw-mn",
       "name": "mn"
     },
@@ -12681,6 +12721,10 @@
       "name": "Parma"
     },
     {
+      "path": "it-fr",
+      "name": "fr"
+    },
+    {
       "path": "it-laz",
       "name": "Lazio"
     },
@@ -12767,6 +12811,10 @@
     {
       "path": "it-sar",
       "name": "sar"
+    },
+    {
+      "path": "it-taa",
+      "name": "taa"
     },
     {
       "path": "it-tos",
@@ -12907,6 +12955,10 @@
     {
       "path": "mc",
       "name": "Monaco"
+    },
+    {
+      "path": "mc-free",
+      "name": "free"
     },
     {
       "path": "md",
@@ -13081,6 +13133,10 @@
       "name": "Drenthe"
     },
     {
+      "path": "nl-dr-boo",
+      "name": "boo"
+    },
+    {
       "path": "nl-dr-gss",
       "name": "gss"
     },
@@ -13095,6 +13151,10 @@
     {
       "path": "nl-ede",
       "name": "ede"
+    },
+    {
+      "path": "nl-emn",
+      "name": "emn"
     },
     {
       "path": "nl-fl",
@@ -13379,6 +13439,10 @@
     {
       "path": "nl-ov-sew",
       "name": "sew"
+    },
+    {
+      "path": "nl-ov-sth",
+      "name": "sth"
     },
     {
       "path": "nl-ov-stw",

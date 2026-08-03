@@ -29,6 +29,11 @@
       ]
     },
     {
+      "code": "it-fr",
+      "name": "fr",
+      "regions": []
+    },
+    {
       "code": "it-laz",
       "name": "Lazio",
       "regions": [
@@ -142,6 +147,11 @@
     {
       "code": "it-sar",
       "name": "sar",
+      "regions": []
+    },
+    {
+      "code": "it-taa",
+      "name": "taa",
       "regions": []
     },
     {
