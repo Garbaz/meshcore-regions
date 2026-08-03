@@ -62,6 +62,11 @@
       "name": "Drenthe",
       "regions": [
         {
+          "code": "nl-dr-boo",
+          "name": "boo",
+          "regions": []
+        },
+        {
           "code": "nl-dr-gss",
           "name": "gss",
           "regions": []
@@ -81,6 +86,11 @@
     {
       "code": "nl-ede",
       "name": "ede",
+      "regions": []
+    },
+    {
+      "code": "nl-emn",
+      "name": "emn",
       "regions": []
     },
     {
@@ -441,6 +451,11 @@
         {
           "code": "nl-ov-sew",
           "name": "sew",
+          "regions": []
+        },
+        {
+          "code": "nl-ov-sth",
+          "name": "sth",
           "regions": []
         },
         {

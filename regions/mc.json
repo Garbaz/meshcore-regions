@@ -1,5 +1,11 @@
 {
   "code": "mc",
   "name": "Monaco",
-  "regions": []
+  "regions": [
+    {
+      "code": "mc-free",
+      "name": "free",
+      "regions": []
+    }
+  ]
 }
