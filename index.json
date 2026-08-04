@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T06:13:00Z",
+  "generated_at": "2026-08-04T05:41:10Z",
   "tree": [
     {
       "code": "ad",
@@ -1089,6 +1089,11 @@
         {
           "code": "be-vil",
           "name": "vil",
+          "regions": []
+        },
+        {
+          "code": "be-vlg",
+          "name": "vlg",
           "regions": []
         },
         {
@@ -3581,6 +3586,11 @@
       "name": "Germany",
       "regions": [
         {
+          "code": "bsmesh",
+          "name": "Bsmesh",
+          "regions": []
+        },
+        {
           "code": "de-31",
           "name": "31",
           "regions": []
@@ -3809,6 +3819,11 @@
             {
               "code": "de-bw-gp",
               "name": "gp",
+              "regions": []
+            },
+            {
+              "code": "de-bw-hd",
+              "name": "hd",
               "regions": []
             },
             {
@@ -4558,6 +4573,11 @@
         {
           "code": "de-msl",
           "name": "msl",
+          "regions": []
+        },
+        {
+          "code": "de-muc",
+          "name": "muc",
           "regions": []
         },
         {
@@ -5465,8 +5485,18 @@
           "regions": []
         },
         {
+          "code": "rhein-main",
+          "name": "Rhein-Main",
+          "regions": []
+        },
+        {
           "code": "rheinland",
           "name": "Rheinland",
+          "regions": []
+        },
+        {
+          "code": "trier",
+          "name": "Trier",
           "regions": []
         }
       ]
@@ -6229,6 +6259,11 @@
         {
           "code": "it-sar",
           "name": "sar",
+          "regions": []
+        },
+        {
+          "code": "it-sic",
+          "name": "sic",
           "regions": []
         },
         {
@@ -7162,6 +7197,11 @@
             {
               "code": "nl-zh-pin",
               "name": "pin",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-rtm",
+              "name": "rtm",
               "regions": []
             },
             {
@@ -8183,6 +8223,10 @@
     {
       "path": "be-vil",
       "name": "vil"
+    },
+    {
+      "path": "be-vlg",
+      "name": "vlg"
     },
     {
       "path": "be-vli",
@@ -10533,6 +10577,10 @@
       "name": "Bahamas"
     },
     {
+      "path": "bsmesh",
+      "name": "Bsmesh"
+    },
+    {
       "path": "bt",
       "name": "Bhutan"
     },
@@ -10935,6 +10983,10 @@
     {
       "path": "de-bw-gp",
       "name": "gp"
+    },
+    {
+      "path": "de-bw-hd",
+      "name": "hd"
     },
     {
       "path": "de-bw-hdh",
@@ -11523,6 +11575,10 @@
     {
       "path": "de-msl",
       "name": "msl"
+    },
+    {
+      "path": "de-muc",
+      "name": "muc"
     },
     {
       "path": "de-mv",
@@ -12813,6 +12869,10 @@
       "name": "sar"
     },
     {
+      "path": "it-sic",
+      "name": "sic"
+    },
+    {
       "path": "it-taa",
       "name": "taa"
     },
@@ -13561,6 +13621,10 @@
       "name": "pin"
     },
     {
+      "path": "nl-zh-rtm",
+      "name": "rtm"
+    },
+    {
       "path": "nl-zh-wss",
       "name": "wss"
     },
@@ -13759,6 +13823,10 @@
     {
       "path": "re",
       "name": "Réunion"
+    },
+    {
+      "path": "rhein-main",
+      "name": "Rhein-Main"
     },
     {
       "path": "rheinland",
@@ -13999,6 +14067,10 @@
     {
       "path": "tr",
       "name": "Türkiye"
+    },
+    {
+      "path": "trier",
+      "name": "Trier"
     },
     {
       "path": "tt",
