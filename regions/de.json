@@ -239,6 +239,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-hd",
+          "name": "hd",
+          "regions": []
+        },
+        {
           "code": "de-bw-hdh",
           "name": "hdh",
           "regions": []
@@ -985,6 +990,11 @@
     {
       "code": "de-msl",
       "name": "msl",
+      "regions": []
+    },
+    {
+      "code": "de-muc",
+      "name": "muc",
       "regions": []
     },
     {

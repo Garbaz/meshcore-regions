@@ -606,6 +606,11 @@
           "regions": []
         },
         {
+          "code": "nl-zh-rtm",
+          "name": "rtm",
+          "regions": []
+        },
+        {
           "code": "nl-zh-wss",
           "name": "wss",
           "regions": []
