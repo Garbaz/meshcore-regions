@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:41:10Z",
+  "generated_at": "2026-08-05T05:39:23Z",
   "tree": [
     {
       "code": "ad",
@@ -4661,6 +4661,11 @@
           "name": "Niedersachsen",
           "regions": [
             {
+              "code": "de-ni-aur",
+              "name": "aur",
+              "regions": []
+            },
+            {
               "code": "de-ni-bs",
               "name": "bs",
               "regions": []
@@ -6632,6 +6637,11 @@
           "regions": []
         },
         {
+          "code": "nl-ass",
+          "name": "ass",
+          "regions": []
+        },
+        {
           "code": "nl-brd",
           "name": "brd",
           "regions": []
@@ -6656,6 +6666,11 @@
           "name": "Drenthe",
           "regions": [
             {
+              "code": "nl-dr-bei",
+              "name": "bei",
+              "regions": []
+            },
+            {
               "code": "nl-dr-boo",
               "name": "boo",
               "regions": []
@@ -6663,6 +6678,11 @@
             {
               "code": "nl-dr-gss",
               "name": "gss",
+              "regions": []
+            },
+            {
+              "code": "nl-dr-mdd",
+              "name": "mdd",
               "regions": []
             },
             {
@@ -11645,6 +11665,10 @@
       "name": "Niedersachsen"
     },
     {
+      "path": "de-ni-aur",
+      "name": "aur"
+    },
+    {
       "path": "de-ni-bs",
       "name": "bs"
     },
@@ -13173,6 +13197,10 @@
       "name": "arn"
     },
     {
+      "path": "nl-ass",
+      "name": "ass"
+    },
+    {
       "path": "nl-brd",
       "name": "brd"
     },
@@ -13193,12 +13221,20 @@
       "name": "Drenthe"
     },
     {
+      "path": "nl-dr-bei",
+      "name": "bei"
+    },
+    {
       "path": "nl-dr-boo",
       "name": "boo"
     },
     {
       "path": "nl-dr-gss",
       "name": "gss"
+    },
+    {
+      "path": "nl-dr-mdd",
+      "name": "mdd"
     },
     {
       "path": "nl-dr-nb3",
