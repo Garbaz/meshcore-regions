@@ -38,6 +38,11 @@
       "regions": []
     },
     {
+      "code": "nl-ass",
+      "name": "ass",
+      "regions": []
+    },
+    {
       "code": "nl-brd",
       "name": "brd",
       "regions": []
@@ -62,6 +67,11 @@
       "name": "Drenthe",
       "regions": [
         {
+          "code": "nl-dr-bei",
+          "name": "bei",
+          "regions": []
+        },
+        {
           "code": "nl-dr-boo",
           "name": "boo",
           "regions": []
@@ -69,6 +79,11 @@
         {
           "code": "nl-dr-gss",
           "name": "gss",
+          "regions": []
+        },
+        {
+          "code": "nl-dr-mdd",
+          "name": "mdd",
           "regions": []
         },
         {

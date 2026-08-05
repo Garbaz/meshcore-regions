@@ -56,13 +56,15 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-08-04T05:41:10Z`
+- Last sync: `2026-08-05T05:39:23Z`
 - Roots: 252
-- Total nodes: 1568
-- Unsorted entries: 657
+- Total nodes: 1572
+- Unsorted entries: 662
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-08-04T05:41:16Z | sync | 799aba3 | Merge pull request #62 from marcelverdult/sync/auto |
+| 2026-08-04T05:41:11Z | sync | cdf94ca | sync: 5 added, 57 resolved, 657 unsorted |
 | 2026-08-03T16:22:32Z | manual | c3aa965 | Merge pull request #53 from marcelverdult/add-de-bsmesh-rheinmain-trier |
 | 2026-08-03T16:22:11Z | manual | f20dc24 | Merge pull request #61 from marcelverdult/sync/auto |
 | 2026-08-03T06:13:01Z | sync | 5e4b8e7 | sync: 7 added, 54 resolved, 646 unsorted |
@@ -81,8 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-07-25T05:36:43Z | sync | 5f58212 | Merge pull request #54 from marcelverdult/sync/auto |
 | 2026-07-25T05:36:36Z | sync | 2b41d94 | sync: 11 added, 46 resolved, 599 unsorted |
 | 2026-07-24T13:36:58Z | manual | 1da29fa | Add bsmesh, rhein-main and trier under de |
-| 2026-07-24T05:42:50Z | sync | 8fc9223 | Merge pull request #52 from marcelverdult/sync/auto |
-| 2026-07-24T05:42:45Z | sync | a34338a | sync: 2 added, 46 resolved, 598 unsorted |
 
 <!-- regions:auto-status:end -->
 
