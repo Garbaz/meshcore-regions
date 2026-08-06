@@ -421,6 +421,32 @@
       ]
     },
     {
+      "code": "de-bwl",
+      "name": "bwl",
+      "regions": [
+        {
+          "code": "de-bwl-gp",
+          "name": "gp",
+          "regions": []
+        },
+        {
+          "code": "de-bwl-hdh",
+          "name": "hdh",
+          "regions": []
+        },
+        {
+          "code": "de-bwl-s",
+          "name": "s",
+          "regions": []
+        },
+        {
+          "code": "de-bwl-str",
+          "name": "str",
+          "regions": []
+        }
+      ]
+    },
+    {
       "code": "de-by",
       "name": "Bayern",
       "regions": [
@@ -509,6 +535,11 @@
         {
           "code": "de-by-fue",
           "name": "fue",
+          "regions": []
+        },
+        {
+          "code": "de-by-gap",
+          "name": "gap",
           "regions": []
         },
         {
@@ -753,6 +784,11 @@
         {
           "code": "de-by-ul",
           "name": "ul",
+          "regions": []
+        },
+        {
+          "code": "de-by-wm",
+          "name": "wm",
           "regions": []
         },
         {
