@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:39:23Z",
+  "generated_at": "2026-08-06T05:40:53Z",
   "tree": [
     {
       "code": "ad",
@@ -4004,6 +4004,32 @@
           ]
         },
         {
+          "code": "de-bwl",
+          "name": "bwl",
+          "regions": [
+            {
+              "code": "de-bwl-gp",
+              "name": "gp",
+              "regions": []
+            },
+            {
+              "code": "de-bwl-hdh",
+              "name": "hdh",
+              "regions": []
+            },
+            {
+              "code": "de-bwl-s",
+              "name": "s",
+              "regions": []
+            },
+            {
+              "code": "de-bwl-str",
+              "name": "str",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "de-by",
           "name": "Bayern",
           "regions": [
@@ -4092,6 +4118,11 @@
             {
               "code": "de-by-fue",
               "name": "fue",
+              "regions": []
+            },
+            {
+              "code": "de-by-gap",
+              "name": "gap",
               "regions": []
             },
             {
@@ -4336,6 +4367,11 @@
             {
               "code": "de-by-ul",
               "name": "ul",
+              "regions": []
+            },
+            {
+              "code": "de-by-wm",
+              "name": "wm",
               "regions": []
             },
             {
@@ -11149,6 +11185,26 @@
       "name": "zak"
     },
     {
+      "path": "de-bwl",
+      "name": "bwl"
+    },
+    {
+      "path": "de-bwl-gp",
+      "name": "gp"
+    },
+    {
+      "path": "de-bwl-hdh",
+      "name": "hdh"
+    },
+    {
+      "path": "de-bwl-s",
+      "name": "s"
+    },
+    {
+      "path": "de-bwl-str",
+      "name": "str"
+    },
+    {
       "path": "de-by",
       "name": "Bayern"
     },
@@ -11219,6 +11275,10 @@
     {
       "path": "de-by-fue",
       "name": "fue"
+    },
+    {
+      "path": "de-by-gap",
+      "name": "gap"
     },
     {
       "path": "de-by-gz",
@@ -11411,6 +11471,10 @@
     {
       "path": "de-by-ul",
       "name": "ul"
+    },
+    {
+      "path": "de-by-wm",
+      "name": "wm"
     },
     {
       "path": "de-by-wue",
