@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:49:48Z",
+  "generated_at": "2026-08-07T15:33:09Z",
   "buckets": {
     "a": [
       {
@@ -18,6 +18,11 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "ab",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "abc",
         "reason": "no_root",
         "first_seen": "2026-06-26T04:28:37Z"
@@ -26,6 +31,11 @@
         "raw": "abz",
         "reason": "no_root",
         "first_seen": "2026-06-01T04:31:59Z"
+      },
+      {
+        "raw": "acrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "act",
@@ -56,6 +66,16 @@
         "raw": "ahrtal",
         "reason": "no_root",
         "first_seen": "2026-05-29T17:11:03Z"
+      },
+      {
+        "raw": "akx",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ala",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "algaeu",
@@ -108,6 +128,26 @@
         "first_seen": "2026-07-04T06:13:29Z"
       },
       {
+        "raw": "ang",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ase",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ast",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "at-ktn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "atl",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
@@ -118,9 +158,34 @@
         "first_seen": "2026-07-22T05:41:45Z"
       },
       {
+        "raw": "atx",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "au-hume",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "au-nsw-syd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "au-nsw-wol",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "austria",
         "reason": "no_root",
         "first_seen": "2026-05-23T04:17:08Z"
+      },
+      {
+        "raw": "ayk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "ayr",
@@ -160,14 +225,29 @@
         "first_seen": "2026-06-12T04:30:42Z"
       },
       {
+        "raw": "bay",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bbx",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
       },
       {
+        "raw": "bc",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bcrk",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "be-bgs",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "beaar",
@@ -350,6 +430,16 @@
         "first_seen": "2026-08-07T04:49:48Z"
       },
       {
+        "raw": "bend",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "benelux",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bensheim",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
@@ -440,6 +530,11 @@
         "first_seen": "2026-07-31T05:58:52Z"
       },
       {
+        "raw": "bke",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bla",
         "reason": "no_root",
         "first_seen": "2026-07-06T07:05:04Z"
@@ -490,6 +585,11 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "boi",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bon",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
@@ -503,6 +603,11 @@
         "raw": "bos",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
+      },
+      {
+        "raw": "bra",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "braunschweig",
@@ -530,6 +635,11 @@
         "first_seen": "2026-08-07T04:49:48Z"
       },
       {
+        "raw": "btlfd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bts",
         "reason": "no_root",
         "first_seen": "2026-07-10T06:36:56Z"
@@ -550,6 +660,11 @@
         "first_seen": "2026-05-29T04:29:46Z"
       },
       {
+        "raw": "bullcity",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bvs",
         "reason": "no_root",
         "first_seen": "2026-07-06T07:05:04Z"
@@ -560,12 +675,32 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "bxh",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "bxj",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "bxy",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "bzg",
         "reason": "no_root",
         "first_seen": "2026-07-10T06:36:56Z"
       }
     ],
     "c": [
+      {
+        "raw": "c-id",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
       {
         "raw": "c-or",
         "reason": "no_root",
@@ -577,9 +712,29 @@
         "first_seen": "2026-07-10T06:36:56Z"
       },
       {
+        "raw": "cal",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "cam",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "can",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "canterbury",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "cary",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "cbr",
@@ -587,9 +742,29 @@
         "first_seen": "2026-07-04T06:13:29Z"
       },
       {
+        "raw": "cbrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ccrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "cda",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "cen",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "cez",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "cgn",
@@ -597,9 +772,39 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "chur",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "cit",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "cls",
         "reason": "no_root",
         "first_seen": "2026-06-05T04:30:08Z"
+      },
+      {
+        "raw": "cny",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "coast-or",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "coldlk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "cos",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "cqf",
@@ -612,14 +817,49 @@
         "first_seen": "2026-05-24T04:28:11Z"
       },
       {
+        "raw": "crd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "csrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "ct",
         "reason": "no_root",
         "first_seen": "2026-07-12T05:49:39Z"
       },
       {
+        "raw": "ct-rv",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "cvo",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
+      },
+      {
+        "raw": "cvrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "cxrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "cys",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "cz-sudety",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "czw",
@@ -664,9 +904,39 @@
         "first_seen": "2026-05-24T04:28:11Z"
       },
       {
+        "raw": "de-bb-ffo",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-bb-pr",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-bb-spn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-bb-tf",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-bwald",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "de-by-dah-obenamhuegel-links",
         "reason": "missing_parent:de-by-dah-obenamhuegel",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "de-hb-bhv",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "de-he-gi-gi-allendorf-lahn",
@@ -689,6 +959,46 @@
         "first_seen": "2026-06-14T04:31:20Z"
       },
       {
+        "raw": "de-ni-bra",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-ni-clp",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-ni-dh",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-ni-emd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-ni-ler",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-ni-noh",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-ni-os",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "de-ni-vec",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "de-rhein-neckar",
         "reason": "missing_parent:de-rhein",
         "first_seen": "2026-07-04T06:13:29Z"
@@ -699,9 +1009,19 @@
         "first_seen": "2026-07-05T06:33:48Z"
       },
       {
+        "raw": "de-sn-vms",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "de-wn-str",
         "reason": "missing_parent:de-wn",
         "first_seen": "2026-05-24T04:28:11Z"
+      },
+      {
+        "raw": "den",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "desued",
@@ -727,6 +1047,11 @@
         "raw": "di",
         "reason": "no_root",
         "first_seen": "2026-07-27T06:20:43Z"
+      },
+      {
+        "raw": "di-ni-el",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "dieburg",
@@ -914,6 +1239,11 @@
         "first_seen": "2026-08-05T05:39:23Z"
       },
       {
+        "raw": "dmb",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "dmt",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -999,9 +1329,19 @@
         "first_seen": "2026-08-07T04:49:48Z"
       },
       {
+        "raw": "dro",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "drs",
         "reason": "no_root",
         "first_seen": "2026-07-22T05:41:45Z"
+      },
+      {
+        "raw": "drum",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "ds",
@@ -1034,6 +1374,11 @@
         "first_seen": "2026-05-25T04:30:44Z"
       },
       {
+        "raw": "duf",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "duisburg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1049,12 +1394,32 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "dur",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "durham",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "dus",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
+      },
+      {
+        "raw": "dzn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       }
     ],
     "e": [
+      {
+        "raw": "e-id",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
       {
         "raw": "e-wa",
         "reason": "no_root",
@@ -1066,9 +1431,24 @@
         "first_seen": "2026-06-06T09:27:12Z"
       },
       {
+        "raw": "eat",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "edi",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "edm",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ege",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "eichenzell",
@@ -1081,14 +1461,29 @@
         "first_seen": "2026-08-07T04:49:48Z"
       },
       {
+        "raw": "ekb",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "elm-asse",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
       },
       {
+        "raw": "eln",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "ema",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "eman",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "emergency",
@@ -1154,6 +1549,11 @@
         "raw": "estonia",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "estvn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "eug",
@@ -1268,6 +1668,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "frd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "fredericia",
         "reason": "no_root",
         "first_seen": "2026-08-07T04:49:48Z"
@@ -1293,6 +1698,16 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "ftc",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ftmac",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "funkfeuer",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1301,6 +1716,11 @@
         "raw": "fvg",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
+      },
+      {
+        "raw": "fvrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "fyn",
@@ -1355,6 +1775,11 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "gjt",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "gla",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1365,9 +1790,24 @@
         "first_seen": "2026-07-10T06:36:56Z"
       },
       {
+        "raw": "gorge",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "grevenbroich",
         "reason": "no_root",
         "first_seen": "2026-07-31T05:58:52Z"
+      },
+      {
+        "raw": "grh",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "gta",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "gtc",
@@ -1375,9 +1815,19 @@
         "first_seen": "2026-07-13T06:07:31Z"
       },
       {
+        "raw": "guc",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "gummersbach",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "guw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       }
     ],
     "h": [
@@ -1390,6 +1840,11 @@
         "raw": "had",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hald",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "halle",
@@ -1410,6 +1865,11 @@
         "raw": "hansemesh",
         "reason": "no_root",
         "first_seen": "2026-08-07T04:49:48Z"
+      },
+      {
+        "raw": "hdn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "he",
@@ -1467,6 +1927,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "hlvl",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "hofheim",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1475,6 +1940,21 @@
         "raw": "homburg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "hrc",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "hsa",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "htn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "hundsrueck",
@@ -1494,6 +1974,11 @@
     ],
     "i": [
       {
+        "raw": "ilake",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "illingen",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1509,6 +1994,11 @@
         "first_seen": "2026-06-01T04:31:59Z"
       },
       {
+        "raw": "inw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "iom",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1522,6 +2012,41 @@
         "raw": "iserlohn",
         "reason": "no_root",
         "first_seen": "2026-06-07T04:30:45Z"
+      },
+      {
+        "raw": "it-bas",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "it-cal",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "it-cam",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "it-fvg",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "it-mol",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "it-pug",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "it-vda",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "italia",
@@ -1588,6 +2113,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "kgf",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "kiel",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1638,6 +2168,11 @@
         "first_seen": "2026-06-01T04:31:59Z"
       },
       {
+        "raw": "kov",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "kraichgau",
         "reason": "no_root",
         "first_seen": "2026-07-23T05:46:57Z"
@@ -1648,6 +2183,11 @@
         "first_seen": "2026-05-25T04:30:44Z"
       },
       {
+        "raw": "ksn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "kuerten",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
@@ -1656,6 +2196,11 @@
         "raw": "kun",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "kzo",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       }
     ],
     "l": [
@@ -1668,6 +2213,11 @@
         "raw": "landkreis-harburg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "lar",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "ld",
@@ -1695,9 +2245,19 @@
         "first_seen": "2026-08-06T05:40:53Z"
       },
       {
+        "raw": "leth",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "leverkusen",
         "reason": "no_root",
         "first_seen": "2026-08-07T04:49:48Z"
+      },
+      {
+        "raw": "lex",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "lfac",
@@ -1720,6 +2280,21 @@
         "first_seen": "2026-07-04T06:13:29Z"
       },
       {
+        "raw": "lloyd-ab",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "lloyd-sk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "lmt",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "local",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1728,6 +2303,11 @@
         "raw": "lohmar",
         "reason": "no_root",
         "first_seen": "2026-07-31T05:58:52Z"
+      },
+      {
+        "raw": "lokal",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "lon",
@@ -1780,6 +2360,11 @@
         "first_seen": "2026-06-01T04:31:59Z"
       },
       {
+        "raw": "lws",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "lx",
         "reason": "no_root",
         "first_seen": "2026-06-17T04:31:21Z"
@@ -1810,6 +2395,26 @@
         "raw": "marienheide",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "mb",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "md-chi",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "md-il",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "melft",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "men",
@@ -1862,6 +2467,11 @@
         "first_seen": "2026-06-01T04:31:59Z"
       },
       {
+        "raw": "mj",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "mkk",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
@@ -1870,6 +2480,11 @@
         "raw": "mlp",
         "reason": "no_root",
         "first_seen": "2026-06-26T04:28:37Z"
+      },
+      {
+        "raw": "mnw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "molfsee",
@@ -1885,6 +2500,21 @@
         "raw": "msemesh",
         "reason": "no_root",
         "first_seen": "2026-06-17T04:31:21Z"
+      },
+      {
+        "raw": "mso",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "msp",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "mtj",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "mtk",
@@ -1907,12 +2537,42 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "mvrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "mwh",
         "reason": "no_root",
         "first_seen": "2026-07-10T06:36:56Z"
       }
     ],
     "n": [
+      {
+        "raw": "n-id",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "nb",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "nca",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ncrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "nd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
       {
         "raw": "neuss",
         "reason": "no_root",
@@ -1932,6 +2592,11 @@
         "raw": "nh",
         "reason": "no_root",
         "first_seen": "2026-07-06T07:05:04Z"
+      },
+      {
+        "raw": "nia",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "niederaanven",
@@ -1974,9 +2639,19 @@
         "first_seen": "2026-06-28T04:30:25Z"
       },
       {
+        "raw": "norf",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "norsingen",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "northeast",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "northwestskane",
@@ -1984,14 +2659,39 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "nqz",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "nrrm",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "nrw",
         "reason": "no_root",
         "first_seen": "2026-05-23T04:17:08Z"
       },
       {
+        "raw": "ns",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "nsw",
         "reason": "no_root",
         "first_seen": "2026-07-31T05:58:52Z"
+      },
+      {
+        "raw": "nt",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ntx",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "nue",
@@ -2002,6 +2702,16 @@
         "raw": "null",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
+      },
+      {
+        "raw": "nuw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "nv",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "nw",
@@ -2071,6 +2781,66 @@
         "first_seen": "2026-07-10T06:36:56Z"
       },
       {
+        "raw": "on",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-alg",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-gtha",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-ham",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-ktw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-lsim",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-ne",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-nw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-se",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-shur",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "on-sw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "onp",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "opo",
         "reason": "no_root",
         "first_seen": "2026-07-24T05:42:44Z"
@@ -2111,6 +2881,16 @@
         "first_seen": "2026-06-17T04:31:21Z"
       },
       {
+        "raw": "oth",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "otk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "otnsws",
         "reason": "no_root",
         "first_seen": "2026-06-22T04:32:17Z"
@@ -2133,9 +2913,19 @@
         "first_seen": "2026-06-12T04:30:42Z"
       },
       {
+        "raw": "palouse",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "pamina",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "pas",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "pdt",
@@ -2148,6 +2938,11 @@
         "first_seen": "2026-05-29T04:29:46Z"
       },
       {
+        "raw": "peace",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "peine",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -2156,6 +2951,16 @@
         "raw": "pekeleck",
         "reason": "no_root",
         "first_seen": "2026-06-12T04:30:42Z"
+      },
+      {
+        "raw": "pel",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "pemb",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "pemesh",
@@ -2188,6 +2993,21 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "pkld",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "plq",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "plx",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "pnw",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
@@ -2218,6 +3038,11 @@
         "first_seen": "2026-07-15T05:23:57Z"
       },
       {
+        "raw": "ppk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "prc",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -2226,6 +3051,11 @@
         "raw": "privat-ehrha",
         "reason": "no_root",
         "first_seen": "2026-07-18T05:18:09Z"
+      },
+      {
+        "raw": "prrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "psc",
@@ -2246,6 +3076,16 @@
         "raw": "pt-lis-mfr-lmakat-t1",
         "reason": "missing_parent:pt-lis-mfr-lmakat",
         "first_seen": "2026-05-29T04:29:46Z"
+      },
+      {
+        "raw": "ptge",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "pub",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "public",
@@ -2271,14 +3111,110 @@
         "raw": "puw-02r",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "pwq",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       }
     ],
-    "q": [],
+    "q": [
+      {
+        "raw": "qc",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "qrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      }
+    ],
     "r": [
+      {
+        "raw": "raleigh",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
       {
         "raw": "ravensburg",
         "reason": "no_root",
         "first_seen": "2026-07-27T06:20:43Z"
+      },
+      {
+        "raw": "rbg",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdbn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdck",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdco",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdek",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdffg",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdkb",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdks",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdmw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdno",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdos",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "rdumesh",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "regina",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "rennsteig",
@@ -2366,6 +3302,16 @@
         "first_seen": "2026-07-16T05:32:42Z"
       },
       {
+        "raw": "ro-is",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ro-nt",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "robot",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -2374,6 +3320,16 @@
         "raw": "roc",
         "reason": "no_root",
         "first_seen": "2026-05-31T04:30:27Z"
+      },
+      {
+        "raw": "rocky",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "ronge",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "rosenheim",
@@ -2396,6 +3352,11 @@
         "raw": "s-dz",
         "reason": "no_root",
         "first_seen": "2026-07-22T05:41:45Z"
+      },
+      {
+        "raw": "s-id",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "s-or",
@@ -2428,6 +3389,11 @@
         "first_seen": "2026-06-02T04:30:54Z"
       },
       {
+        "raw": "salishmesh",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "samtgemeinde-tostedt",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
@@ -2458,6 +3424,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "sca",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "schapen",
         "reason": "no_root",
         "first_seen": "2026-07-04T06:13:29Z"
@@ -2481,6 +3452,11 @@
         "raw": "scn",
         "reason": "no_root",
         "first_seen": "2026-06-01T04:31:59Z"
+      },
+      {
+        "raw": "scrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "scz",
@@ -2633,9 +3609,54 @@
         "first_seen": "2026-06-02T04:30:54Z"
       },
       {
+        "raw": "sk-ba",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "sk-ke",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "sk-mt",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "sk-pd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "sk-pp",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "sk-vychod",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "sk-za",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "sk-zv",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "skane",
         "reason": "no_root",
         "first_seen": "2026-07-21T05:42:27Z"
+      },
+      {
+        "raw": "slc",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "sle",
@@ -2646,6 +3667,11 @@
         "raw": "sleregion",
         "reason": "no_root",
         "first_seen": "2026-07-16T05:32:42Z"
+      },
+      {
+        "raw": "slrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "slv",
@@ -2678,9 +3704,24 @@
         "first_seen": "2026-06-08T04:31:32Z"
       },
       {
+        "raw": "southisland",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "sp",
         "reason": "no_root",
         "first_seen": "2026-05-23T04:17:08Z"
+      },
+      {
+        "raw": "sqq",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "srd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "srr",
@@ -2703,9 +3744,19 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "stk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "stmk",
         "reason": "no_root",
         "first_seen": "2026-07-27T06:20:43Z"
+      },
+      {
+        "raw": "stoon",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "str",
@@ -2738,6 +3789,11 @@
         "first_seen": "2026-05-30T04:22:12Z"
       },
       {
+        "raw": "sw-id",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "sw-wa",
         "reason": "no_root",
         "first_seen": "2026-06-05T04:30:08Z"
@@ -2748,6 +3804,11 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "swift",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "swsw",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -2756,6 +3817,11 @@
         "raw": "sxb",
         "reason": "no_root",
         "first_seen": "2026-06-22T04:32:17Z"
+      },
+      {
+        "raw": "szi",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "szy",
@@ -2790,9 +3856,24 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "tdk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "teesside",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "temporaerhaus",
         "reason": "no_root",
         "first_seen": "2026-08-06T05:40:53Z"
+      },
+      {
+        "raw": "tenn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "test",
@@ -2810,6 +3891,11 @@
         "first_seen": "2026-07-27T06:20:43Z"
       },
       {
+        "raw": "thom",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "ti",
         "reason": "no_root",
         "first_seen": "2026-05-31T04:30:27Z"
@@ -2823,6 +3909,51 @@
         "raw": "tll",
         "reason": "no_root",
         "first_seen": "2026-07-05T06:33:48Z"
+      },
+      {
+        "raw": "tn-east",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tn-knox",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tn-mcminn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tn-middle",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tn-polk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tn-west",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tn-wx",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tnrd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tor",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "tq",
@@ -2843,6 +3974,16 @@
         "raw": "trontano",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "tse",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "tx",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       }
     ],
     "u": [
@@ -2857,9 +3998,19 @@
         "first_seen": "2026-05-26T04:25:53Z"
       },
       {
+        "raw": "ukk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "unna",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "uofi",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "upper-rhein",
@@ -2872,6 +4023,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "ura",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "us_ga",
         "reason": "invalid_chars",
         "first_seen": "2026-07-21T05:42:27Z"
@@ -2882,9 +4038,19 @@
         "first_seen": "2026-05-23T04:17:08Z"
       },
       {
+        "raw": "usj",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "ut",
         "reason": "no_root",
         "first_seen": "2026-07-06T07:05:04Z"
+      },
+      {
+        "raw": "uzr",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       }
     ],
     "v": [
@@ -2897,6 +4063,11 @@
         "raw": "valle",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "vanisle",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "veneto",
@@ -2924,6 +4095,11 @@
         "first_seen": "2026-07-31T05:58:52Z"
       },
       {
+        "raw": "vr-vggm",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "vr-vnog",
         "reason": "no_root",
         "first_seen": "2026-06-29T04:31:18Z"
@@ -2934,6 +4110,16 @@
         "first_seen": "2026-05-25T04:30:44Z"
       },
       {
+        "raw": "vr-vrbn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "vr-vrbzo",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "vr-vrd",
         "reason": "no_root",
         "first_seen": "2026-07-31T05:58:52Z"
@@ -2942,6 +4128,21 @@
         "raw": "vr-vrf",
         "reason": "no_root",
         "first_seen": "2026-07-31T05:58:52Z"
+      },
+      {
+        "raw": "vr-vrfl",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "vr-vrgv",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "vr-vrgz",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "vr-vrh",
@@ -2964,6 +4165,11 @@
         "first_seen": "2026-07-04T06:13:29Z"
       },
       {
+        "raw": "vr-vrln",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "vr-vrmwb",
         "reason": "no_root",
         "first_seen": "2026-08-04T05:41:10Z"
@@ -2984,6 +4190,11 @@
         "first_seen": "2026-06-29T04:31:18Z"
       },
       {
+        "raw": "vr-vru",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "vr-vrz",
         "reason": "no_root",
         "first_seen": "2026-08-04T05:41:10Z"
@@ -2992,6 +4203,11 @@
         "raw": "vr-vrzhz",
         "reason": "no_root",
         "first_seen": "2026-08-04T05:41:10Z"
+      },
+      {
+        "raw": "vr-vrzl",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "vr-vrzw",
@@ -3021,6 +4237,11 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "wat",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "waw",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -3029,6 +4250,11 @@
         "raw": "wb",
         "reason": "no_root",
         "first_seen": "2026-07-22T05:41:45Z"
+      },
+      {
+        "raw": "wcrt",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "we-west",
@@ -3126,9 +4352,24 @@
         "first_seen": "2026-06-12T04:30:42Z"
       },
       {
+        "raw": "wman",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "wmass",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "wolfsburg",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "wpg",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "wr",
@@ -3146,6 +4387,11 @@
         "first_seen": "2026-07-21T05:42:27Z"
       },
       {
+        "raw": "wsu",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "wsws",
         "reason": "no_root",
         "first_seen": "2026-05-23T04:17:08Z"
@@ -3161,6 +4407,16 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
+        "raw": "wy",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
+        "raw": "wybrn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "wyemesh",
         "reason": "no_root",
         "first_seen": "2026-07-29T05:44:13Z"
@@ -3174,6 +4430,11 @@
       }
     ],
     "y": [
+      {
+        "raw": "ycd",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
       {
         "raw": "ycm",
         "reason": "no_root",
@@ -3200,6 +4461,11 @@
         "first_seen": "2026-07-10T06:36:56Z"
       },
       {
+        "raw": "yktn",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
+      },
+      {
         "raw": "ykz",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
@@ -3208,6 +4474,11 @@
         "raw": "ylk",
         "reason": "no_root",
         "first_seen": "2026-06-08T04:31:32Z"
+      },
+      {
+        "raw": "ylw",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "ynd",
@@ -3243,6 +4514,11 @@
         "raw": "yqt",
         "reason": "no_root",
         "first_seen": "2026-06-08T04:31:32Z"
+      },
+      {
+        "raw": "yrk",
+        "reason": "no_root",
+        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "ytr",
