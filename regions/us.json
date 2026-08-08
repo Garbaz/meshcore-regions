@@ -38,8 +38,18 @@
           "regions": []
         },
         {
+          "code": "us-ga-ne",
+          "name": "ne",
+          "regions": []
+        },
+        {
           "code": "us-ga-northeast",
           "name": "northeast",
+          "regions": []
+        },
+        {
+          "code": "us-ga-nw",
+          "name": "nw",
           "regions": []
         }
       ]
