@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:06:34Z",
+  "generated_at": "2026-08-09T04:12:10Z",
   "tree": [
     {
       "code": "ad",
@@ -3246,6 +3246,11 @@
       "name": "Bulgaria",
       "regions": [
         {
+          "code": "bg-01",
+          "name": "01",
+          "regions": []
+        },
+        {
           "code": "bg-22",
           "name": "22",
           "regions": []
@@ -5941,8 +5946,18 @@
               "regions": []
             },
             {
+              "code": "gb-eng-ne",
+              "name": "ne",
+              "regions": []
+            },
+            {
               "code": "gb-eng-nw",
               "name": "nw",
+              "regions": []
+            },
+            {
+              "code": "gb-eng-yh",
+              "name": "yh",
               "regions": []
             }
           ]
@@ -10601,6 +10616,10 @@
       "name": "Bulgaria"
     },
     {
+      "path": "bg-01",
+      "name": "01"
+    },
+    {
       "path": "bg-22",
       "name": "22"
     },
@@ -12693,8 +12712,16 @@
       "name": "midlands"
     },
     {
+      "path": "gb-eng-ne",
+      "name": "ne"
+    },
+    {
       "path": "gb-eng-nw",
       "name": "nw"
+    },
+    {
+      "path": "gb-eng-yh",
+      "name": "yh"
     },
     {
       "path": "gb-est",
