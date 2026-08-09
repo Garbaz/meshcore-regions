@@ -22,8 +22,18 @@
           "regions": []
         },
         {
+          "code": "gb-eng-ne",
+          "name": "ne",
+          "regions": []
+        },
+        {
           "code": "gb-eng-nw",
           "name": "nw",
+          "regions": []
+        },
+        {
+          "code": "gb-eng-yh",
+          "name": "yh",
           "regions": []
         }
       ]
