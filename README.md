@@ -56,13 +56,19 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-08-07T04:49:48Z`
+- Last sync: `2026-08-09T04:12:10Z`
 - Roots: 252
-- Total nodes: 1580
-- Unsorted entries: 665
+- Total nodes: 1632
+- Unsorted entries: 914
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-08-08T04:06:43Z | sync | 826e584 | Merge pull request #67 from marcelverdult/sync/auto |
+| 2026-08-08T04:06:35Z | sync | 5c0b575 | sync: 3 added, 57 resolved, 920 unsorted |
+| 2026-08-07T16:57:59Z | manual | fc38f64 | Merge pull request #66 from marcelverdult/add/community-region-sync-2026-08-07 |
+| 2026-08-07T16:55:44Z | sync | 6d399a3 | feat: add 253 region codes from community site survey |
+| 2026-08-07T04:49:57Z | sync | 6cb5b3e | Merge pull request #65 from marcelverdult/sync/auto |
+| 2026-08-07T04:49:50Z | sync | 92c90f6 | sync: 1 added, 57 resolved, 665 unsorted |
 | 2026-08-06T12:11:44Z | manual | 38d5394 | Merge pull request #64 from marcelverdult/sync/auto |
 | 2026-08-06T05:40:54Z | sync | 7a005e0 | sync: 7 added, 57 resolved, 664 unsorted |
 | 2026-08-05T05:39:30Z | sync | 69c14fd | Merge pull request #63 from marcelverdult/sync/auto |
@@ -77,12 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-08-01T05:48:18Z | sync | 54c62f3 | Merge pull request #59 from marcelverdult/sync/auto |
 | 2026-08-01T05:48:13Z | sync | a0767d9 | sync: 5 added, 54 resolved, 645 unsorted |
 | 2026-07-31T05:59:10Z | sync | f4e28de | Merge pull request #58 from marcelverdult/sync/auto |
-| 2026-07-31T05:58:53Z | sync | 004daf7 | sync: 21 added, 54 resolved, 642 unsorted |
-| 2026-07-30T05:33:02Z | sync | 0a36631 | Merge pull request #57 from marcelverdult/sync/auto |
-| 2026-07-30T05:32:54Z | sync | 912a961 | sync: 7 added, 47 resolved, 626 unsorted |
-| 2026-07-29T05:44:19Z | sync | f43d1f8 | Merge pull request #56 from marcelverdult/sync/auto |
-| 2026-07-29T05:44:14Z | sync | 201ceb9 | sync: 9 added, 46 resolved, 615 unsorted |
-| 2026-07-27T06:20:50Z | sync | f932230 | Merge pull request #55 from marcelverdult/sync/auto |
 
 <!-- regions:auto-status:end -->
 
