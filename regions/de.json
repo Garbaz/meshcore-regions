@@ -902,7 +902,13 @@
     {
       "code": "de-hb",
       "name": "Bremen",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-hb-aumund",
+          "name": "aumund",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-he",
@@ -949,6 +955,11 @@
     {
       "code": "de-hes",
       "name": "hes",
+      "regions": []
+    },
+    {
+      "code": "de-hgw",
+      "name": "hgw",
       "regions": []
     },
     {
@@ -1316,6 +1327,11 @@
           "regions": []
         },
         {
+          "code": "de-nw-bn",
+          "name": "bn",
+          "regions": []
+        },
+        {
           "code": "de-nw-bo",
           "name": "bo",
           "regions": []
@@ -1544,6 +1560,11 @@
       "code": "de-rp",
       "name": "Rheinland-Pfalz",
       "regions": [
+        {
+          "code": "de-rp-aw",
+          "name": "aw",
+          "regions": []
+        },
         {
           "code": "de-rp-dbg",
           "name": "dbg",

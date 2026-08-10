@@ -60,6 +60,11 @@
       "name": "Liguria",
       "regions": [
         {
+          "code": "it-lig-ge",
+          "name": "ge",
+          "regions": []
+        },
+        {
           "code": "it-lig-im",
           "name": "im",
           "regions": []
@@ -127,6 +132,11 @@
       "code": "it-pie",
       "name": "Piemonte",
       "regions": [
+        {
+          "code": "it-pie-al",
+          "name": "al",
+          "regions": []
+        },
         {
           "code": "it-pie-at",
           "name": "Asti",

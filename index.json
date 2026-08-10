@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:12:10Z",
+  "generated_at": "2026-08-10T04:24:08Z",
   "tree": [
     {
       "code": "ad",
@@ -4490,7 +4490,13 @@
         {
           "code": "de-hb",
           "name": "Bremen",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-hb-aumund",
+              "name": "aumund",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-he",
@@ -4537,6 +4543,11 @@
         {
           "code": "de-hes",
           "name": "hes",
+          "regions": []
+        },
+        {
+          "code": "de-hgw",
+          "name": "hgw",
           "regions": []
         },
         {
@@ -4904,6 +4915,11 @@
               "regions": []
             },
             {
+              "code": "de-nw-bn",
+              "name": "bn",
+              "regions": []
+            },
+            {
               "code": "de-nw-bo",
               "name": "bo",
               "regions": []
@@ -5132,6 +5148,11 @@
           "code": "de-rp",
           "name": "Rheinland-Pfalz",
           "regions": [
+            {
+              "code": "de-rp-aw",
+              "name": "aw",
+              "regions": []
+            },
             {
               "code": "de-rp-dbg",
               "name": "dbg",
@@ -6233,6 +6254,11 @@
           "name": "Liguria",
           "regions": [
             {
+              "code": "it-lig-ge",
+              "name": "ge",
+              "regions": []
+            },
+            {
               "code": "it-lig-im",
               "name": "im",
               "regions": []
@@ -6300,6 +6326,11 @@
           "code": "it-pie",
           "name": "Piemonte",
           "regions": [
+            {
+              "code": "it-pie-al",
+              "name": "al",
+              "regions": []
+            },
             {
               "code": "it-pie-at",
               "name": "Asti",
@@ -11604,6 +11635,10 @@
       "name": "Bremen"
     },
     {
+      "path": "de-hb-aumund",
+      "name": "aumund"
+    },
+    {
       "path": "de-he",
       "name": "Hessen"
     },
@@ -11638,6 +11673,10 @@
     {
       "path": "de-hes",
       "name": "hes"
+    },
+    {
+      "path": "de-hgw",
+      "name": "hgw"
     },
     {
       "path": "de-hh",
@@ -11924,6 +11963,10 @@
       "name": "bi"
     },
     {
+      "path": "de-nw-bn",
+      "name": "bn"
+    },
+    {
       "path": "de-nw-bo",
       "name": "bo"
     },
@@ -12086,6 +12129,10 @@
     {
       "path": "de-rp",
       "name": "Rheinland-Pfalz"
+    },
+    {
+      "path": "de-rp-aw",
+      "name": "aw"
     },
     {
       "path": "de-rp-dbg",
@@ -12940,6 +12987,10 @@
       "name": "Liguria"
     },
     {
+      "path": "it-lig-ge",
+      "name": "ge"
+    },
+    {
       "path": "it-lig-im",
       "name": "im"
     },
@@ -12990,6 +13041,10 @@
     {
       "path": "it-pie",
       "name": "Piemonte"
+    },
+    {
+      "path": "it-pie-al",
+      "name": "al"
     },
     {
       "path": "it-pie-at",
