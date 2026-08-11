@@ -644,6 +644,11 @@
           "regions": []
         },
         {
+          "code": "de-by-nord",
+          "name": "nord",
+          "regions": []
+        },
+        {
           "code": "de-by-nu",
           "name": "nu",
           "regions": []
@@ -721,6 +726,11 @@
             {
               "code": "de-by-opf-new",
               "name": "new",
+              "regions": []
+            },
+            {
+              "code": "de-by-opf-wen",
+              "name": "wen",
               "regions": []
             }
           ]
@@ -1203,6 +1213,11 @@
         {
           "code": "de-ni-lg",
           "name": "lg",
+          "regions": []
+        },
+        {
+          "code": "de-ni-ni",
+          "name": "ni",
           "regions": []
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:24:08Z",
+  "generated_at": "2026-08-11T04:13:24Z",
   "tree": [
     {
       "code": "ad",
@@ -4232,6 +4232,11 @@
               "regions": []
             },
             {
+              "code": "de-by-nord",
+              "name": "nord",
+              "regions": []
+            },
+            {
               "code": "de-by-nu",
               "name": "nu",
               "regions": []
@@ -4309,6 +4314,11 @@
                 {
                   "code": "de-by-opf-new",
                   "name": "new",
+                  "regions": []
+                },
+                {
+                  "code": "de-by-opf-wen",
+                  "name": "wen",
                   "regions": []
                 }
               ]
@@ -4791,6 +4801,11 @@
             {
               "code": "de-ni-lg",
               "name": "lg",
+              "regions": []
+            },
+            {
+              "code": "de-ni-ni",
+              "name": "ni",
               "regions": []
             },
             {
@@ -11431,6 +11446,10 @@
       "name": "ndb"
     },
     {
+      "path": "de-by-nord",
+      "name": "nord"
+    },
+    {
       "path": "de-by-nu",
       "name": "nu"
     },
@@ -11493,6 +11512,10 @@
     {
       "path": "de-by-opf-new",
       "name": "new"
+    },
+    {
+      "path": "de-by-opf-wen",
+      "name": "wen"
     },
     {
       "path": "de-by-otn",
@@ -11869,6 +11892,10 @@
     {
       "path": "de-ni-lg",
       "name": "lg"
+    },
+    {
+      "path": "de-ni-ni",
+      "name": "ni"
     },
     {
       "path": "de-ni-nom",
