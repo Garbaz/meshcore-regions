@@ -56,19 +56,24 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 
 <!-- regions:auto-status:begin -->
 
-- Last sync: `2026-08-11T04:13:24Z`
+- Last sync: `2026-08-13T04:45:49Z`
 - Roots: 252
-- Total nodes: 1641
-- Unsorted entries: 918
+- Total nodes: 1655
+- Unsorted entries: 931
 
 | when (UTC) | kind | path | note |
 |---|---|---|---|
+| 2026-08-11T12:39:06Z | manual | 93f3300 | Merge pull request #69 from marcelverdult/add/community-region-sync-2026-08-07 |
+| 2026-08-11T04:13:31Z | sync | b3211ec | Merge pull request #71 from marcelverdult/sync/auto |
+| 2026-08-11T04:13:25Z | sync | 9d172b5 | sync: 3 added, 48 resolved, 918 unsorted |
 | 2026-08-10T04:24:27Z | sync | 3b5107c | Merge pull request #70 from marcelverdult/sync/auto |
 | 2026-08-10T04:24:09Z | sync | 9d09356 | sync: 6 added, 48 resolved, 927 unsorted |
+| 2026-08-09T15:22:01Z | manual | 30a48b1 | Merge main into add/community-region-sync-2026-08-07 |
 | 2026-08-09T04:12:19Z | sync | 9b26dc6 | Merge pull request #68 from marcelverdult/sync/auto |
 | 2026-08-09T04:12:12Z | sync | 8afe527 | sync: 3 added, 57 resolved, 914 unsorted |
 | 2026-08-08T04:06:43Z | sync | 826e584 | Merge pull request #67 from marcelverdult/sync/auto |
 | 2026-08-08T04:06:35Z | sync | 5c0b575 | sync: 3 added, 57 resolved, 920 unsorted |
+| 2026-08-07T17:33:14Z | manual | af449ae | feat: add 255 region codes from community site survey |
 | 2026-08-07T16:57:59Z | manual | fc38f64 | Merge pull request #66 from marcelverdult/add/community-region-sync-2026-08-07 |
 | 2026-08-07T16:55:44Z | sync | 6d399a3 | feat: add 253 region codes from community site survey |
 | 2026-08-07T04:49:57Z | sync | 6cb5b3e | Merge pull request #65 from marcelverdult/sync/auto |
@@ -78,11 +83,6 @@ The catalog refreshes every night from the public MeshCore map at http://map.kie
 | 2026-08-05T05:39:30Z | sync | 69c14fd | Merge pull request #63 from marcelverdult/sync/auto |
 | 2026-08-05T05:39:24Z | sync | e91efe5 | sync: 4 added, 57 resolved, 662 unsorted |
 | 2026-08-04T05:41:16Z | sync | 799aba3 | Merge pull request #62 from marcelverdult/sync/auto |
-| 2026-08-04T05:41:11Z | sync | cdf94ca | sync: 5 added, 57 resolved, 657 unsorted |
-| 2026-08-03T16:22:32Z | manual | c3aa965 | Merge pull request #53 from marcelverdult/add-de-bsmesh-rheinmain-trier |
-| 2026-08-03T16:22:11Z | manual | f20dc24 | Merge pull request #61 from marcelverdult/sync/auto |
-| 2026-08-03T06:13:01Z | sync | 5e4b8e7 | sync: 7 added, 54 resolved, 646 unsorted |
-| 2026-08-02T05:49:09Z | sync | a17c381 | Merge pull request #60 from marcelverdult/sync/auto |
 
 <!-- regions:auto-status:end -->
 

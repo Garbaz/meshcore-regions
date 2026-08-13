@@ -1,5 +1,11 @@
 {
   "code": "es",
   "name": "Spain",
-  "regions": []
+  "regions": [
+    {
+      "code": "es-as",
+      "name": "as",
+      "regions": []
+    }
+  ]
 }
