@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:13:24Z",
+  "generated_at": "2026-08-13T04:45:49Z",
   "tree": [
     {
       "code": "ad",
@@ -140,7 +140,13 @@
         {
           "code": "at-stmk",
           "name": "stmk",
-          "regions": []
+          "regions": [
+            {
+              "code": "at-stmk-lb",
+              "name": "lb",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "at-sued",
@@ -4612,6 +4618,11 @@
           "regions": []
         },
         {
+          "code": "de-magdeburg",
+          "name": "magdeburg",
+          "regions": []
+        },
+        {
           "code": "de-mh",
           "name": "mh",
           "regions": []
@@ -5250,6 +5261,11 @@
               "regions": []
             },
             {
+              "code": "de-sh-od",
+              "name": "od",
+              "regions": []
+            },
+            {
               "code": "de-sh-oh",
               "name": "oh",
               "regions": []
@@ -5537,6 +5553,11 @@
           ]
         },
         {
+          "code": "de-thals",
+          "name": "thals",
+          "regions": []
+        },
+        {
           "code": "de-thecore",
           "name": "thecore",
           "regions": []
@@ -5748,7 +5769,13 @@
     {
       "code": "es",
       "name": "Spain",
-      "regions": []
+      "regions": [
+        {
+          "code": "es-as",
+          "name": "as",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "et",
@@ -5836,6 +5863,11 @@
           "regions": []
         },
         {
+          "code": "fr-39",
+          "name": "39",
+          "regions": []
+        },
+        {
           "code": "fr-44",
           "name": "44",
           "regions": []
@@ -5861,6 +5893,11 @@
           "regions": []
         },
         {
+          "code": "fr-71",
+          "name": "71",
+          "regions": []
+        },
+        {
           "code": "fr-73",
           "name": "73",
           "regions": [
@@ -5882,6 +5919,11 @@
           "regions": []
         },
         {
+          "code": "fr-ain",
+          "name": "ain",
+          "regions": []
+        },
+        {
           "code": "fr-alsace",
           "name": "alsace",
           "regions": []
@@ -5889,7 +5931,13 @@
         {
           "code": "fr-ara",
           "name": "ara",
-          "regions": []
+          "regions": [
+            {
+              "code": "fr-ara-xbk",
+              "name": "xbk",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "fr-bfc",
@@ -5924,6 +5972,11 @@
         {
           "code": "fr-idf",
           "name": "idf",
+          "regions": []
+        },
+        {
+          "code": "fr-jura",
+          "name": "jura",
           "regions": []
         },
         {
@@ -6281,6 +6334,11 @@
             {
               "code": "it-lig-sp",
               "name": "Spezia",
+              "regions": []
+            },
+            {
+              "code": "it-lig-sv",
+              "name": "sv",
               "regions": []
             },
             {
@@ -6958,6 +7016,11 @@
           "regions": []
         },
         {
+          "code": "nl-hvs",
+          "name": "hvs",
+          "regions": []
+        },
+        {
           "code": "nl-ldd",
           "name": "ldd",
           "regions": []
@@ -7076,6 +7139,11 @@
             {
               "code": "nl-nh-hrn",
               "name": "hrn",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-hvs",
+              "name": "hvs",
               "regions": []
             },
             {
@@ -8192,6 +8260,10 @@
     {
       "path": "at-stmk",
       "name": "stmk"
+    },
+    {
+      "path": "at-stmk-lb",
+      "name": "lb"
     },
     {
       "path": "at-sued",
@@ -11742,6 +11814,10 @@
       "name": "le"
     },
     {
+      "path": "de-magdeburg",
+      "name": "magdeburg"
+    },
+    {
       "path": "de-mh",
       "name": "mh"
     },
@@ -12226,6 +12302,10 @@
       "name": "Kiel"
     },
     {
+      "path": "de-sh-od",
+      "name": "od"
+    },
+    {
       "path": "de-sh-oh",
       "name": "oh"
     },
@@ -12450,6 +12530,10 @@
       "name": "wak"
     },
     {
+      "path": "de-thals",
+      "name": "thals"
+    },
+    {
       "path": "de-thecore",
       "name": "thecore"
     },
@@ -12602,6 +12686,10 @@
       "name": "Spain"
     },
     {
+      "path": "es-as",
+      "name": "as"
+    },
+    {
       "path": "et",
       "name": "Ethiopia"
     },
@@ -12670,6 +12758,10 @@
       "name": "38"
     },
     {
+      "path": "fr-39",
+      "name": "39"
+    },
+    {
       "path": "fr-44",
       "name": "44"
     },
@@ -12690,6 +12782,10 @@
       "name": "69"
     },
     {
+      "path": "fr-71",
+      "name": "71"
+    },
+    {
       "path": "fr-73",
       "name": "73"
     },
@@ -12706,12 +12802,20 @@
       "name": "74"
     },
     {
+      "path": "fr-ain",
+      "name": "ain"
+    },
+    {
       "path": "fr-alsace",
       "name": "alsace"
     },
     {
       "path": "fr-ara",
       "name": "ara"
+    },
+    {
+      "path": "fr-ara-xbk",
+      "name": "xbk"
     },
     {
       "path": "fr-bfc",
@@ -12740,6 +12844,10 @@
     {
       "path": "fr-idf",
       "name": "idf"
+    },
+    {
+      "path": "fr-jura",
+      "name": "jura"
     },
     {
       "path": "fr-naq",
@@ -13024,6 +13132,10 @@
     {
       "path": "it-lig-sp",
       "name": "Spezia"
+    },
+    {
+      "path": "it-lig-sv",
+      "name": "sv"
     },
     {
       "path": "it-lig-vz",
@@ -13566,6 +13678,10 @@
       "name": "htb"
     },
     {
+      "path": "nl-hvs",
+      "name": "hvs"
+    },
+    {
       "path": "nl-ldd",
       "name": "ldd"
     },
@@ -13660,6 +13776,10 @@
     {
       "path": "nl-nh-hrn",
       "name": "hrn"
+    },
+    {
+      "path": "nl-nh-hvs",
+      "name": "hvs"
     },
     {
       "path": "nl-nh-lmm",

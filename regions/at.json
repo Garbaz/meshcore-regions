@@ -82,7 +82,13 @@
     {
       "code": "at-stmk",
       "name": "stmk",
-      "regions": []
+      "regions": [
+        {
+          "code": "at-stmk-lb",
+          "name": "lb",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "at-sued",

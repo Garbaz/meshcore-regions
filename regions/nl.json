@@ -257,6 +257,11 @@
       "regions": []
     },
     {
+      "code": "nl-hvs",
+      "name": "hvs",
+      "regions": []
+    },
+    {
       "code": "nl-ldd",
       "name": "ldd",
       "regions": []
@@ -375,6 +380,11 @@
         {
           "code": "nl-nh-hrn",
           "name": "hrn",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-hvs",
+          "name": "hvs",
           "regions": []
         },
         {

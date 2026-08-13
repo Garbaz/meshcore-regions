@@ -75,6 +75,11 @@
           "regions": []
         },
         {
+          "code": "it-lig-sv",
+          "name": "sv",
+          "regions": []
+        },
+        {
           "code": "it-lig-vz",
           "name": "Varazze",
           "regions": []
