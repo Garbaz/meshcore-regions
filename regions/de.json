@@ -703,8 +703,18 @@
               "regions": []
             },
             {
+              "code": "de-by-ofr-ho",
+              "name": "ho",
+              "regions": []
+            },
+            {
               "code": "de-by-ofr-kc",
               "name": "kc",
+              "regions": []
+            },
+            {
+              "code": "de-by-ofr-nai",
+              "name": "nai",
               "regions": []
             },
             {
@@ -734,6 +744,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "de-by-ost",
+          "name": "ost",
+          "regions": []
         },
         {
           "code": "de-by-otn",
@@ -787,6 +802,11 @@
             {
               "code": "de-by-ufr-sw",
               "name": "sw",
+              "regions": []
+            },
+            {
+              "code": "de-by-ufr-wue",
+              "name": "wue",
               "regions": []
             }
           ]

@@ -54,6 +54,16 @@
       "regions": []
     },
     {
+      "code": "gb-nw",
+      "name": "nw",
+      "regions": []
+    },
+    {
+      "code": "gb-sco",
+      "name": "sco",
+      "regions": []
+    },
+    {
       "code": "gb-sct",
       "name": "sct",
       "regions": []

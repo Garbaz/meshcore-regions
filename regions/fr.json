@@ -43,6 +43,11 @@
       "regions": []
     },
     {
+      "code": "fr-54",
+      "name": "54",
+      "regions": []
+    },
+    {
       "code": "fr-56",
       "name": "56",
       "regions": []
@@ -122,6 +127,11 @@
     {
       "code": "fr-cvl",
       "name": "cvl",
+      "regions": []
+    },
+    {
+      "code": "fr-est",
+      "name": "est",
       "regions": []
     },
     {

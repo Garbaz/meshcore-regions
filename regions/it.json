@@ -34,6 +34,11 @@
       "regions": []
     },
     {
+      "code": "it-fvg",
+      "name": "fvg",
+      "regions": []
+    },
+    {
       "code": "it-laz",
       "name": "Lazio",
       "regions": [
@@ -188,6 +193,11 @@
     {
       "code": "it-umb",
       "name": "umb",
+      "regions": []
+    },
+    {
+      "code": "it-vda",
+      "name": "vda",
       "regions": []
     },
     {

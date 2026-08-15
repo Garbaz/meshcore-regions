@@ -67,6 +67,11 @@
       "name": "Drenthe",
       "regions": [
         {
+          "code": "nl-dr-2ll",
+          "name": "2ll",
+          "regions": []
+        },
+        {
           "code": "nl-dr-bei",
           "name": "bei",
           "regions": []
@@ -79,6 +84,11 @@
         {
           "code": "nl-dr-gss",
           "name": "gss",
+          "regions": []
+        },
+        {
+          "code": "nl-dr-gtn",
+          "name": "gtn",
           "regions": []
         },
         {
@@ -120,6 +130,11 @@
         {
           "code": "nl-fr-hrn",
           "name": "hrn",
+          "regions": []
+        },
+        {
+          "code": "nl-fr-tsl",
+          "name": "tsl",
           "regions": []
         }
       ]
@@ -190,6 +205,11 @@
           "regions": []
         },
         {
+          "code": "nl-gr-odp",
+          "name": "odp",
+          "regions": []
+        },
+        {
           "code": "nl-gr-pek",
           "name": "pek",
           "regions": []
@@ -197,6 +217,11 @@
         {
           "code": "nl-gr-stk",
           "name": "stk",
+          "regions": []
+        },
+        {
+          "code": "nl-gr-vdm",
+          "name": "vdm",
           "regions": []
         },
         {
@@ -274,7 +299,13 @@
     {
       "code": "nl-li",
       "name": "Limburg",
-      "regions": []
+      "regions": [
+        {
+          "code": "nl-li-vnr",
+          "name": "vnr",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "nl-lid",
@@ -554,6 +585,11 @@
     {
       "code": "nl-vee",
       "name": "vee",
+      "regions": []
+    },
+    {
+      "code": "nl-vnr",
+      "name": "vnr",
       "regions": []
     },
     {
