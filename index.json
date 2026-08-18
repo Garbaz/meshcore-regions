@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:41:19Z",
+  "generated_at": "2026-08-18T03:37:37Z",
   "tree": [
     {
       "code": "ad",
@@ -107,6 +107,11 @@
             {
               "code": "at-ooe-ll",
               "name": "ll",
+              "regions": []
+            },
+            {
+              "code": "at-ooe-nord",
+              "name": "nord",
               "regions": []
             },
             {
@@ -3646,6 +3651,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-cw",
+              "name": "cw",
+              "regions": []
+            },
+            {
               "code": "de-bb-ee",
               "name": "ee",
               "regions": []
@@ -4360,6 +4370,11 @@
               "regions": []
             },
             {
+              "code": "de-by-pan",
+              "name": "pan",
+              "regions": []
+            },
+            {
               "code": "de-by-rgbg",
               "name": "rgbg",
               "regions": []
@@ -4413,6 +4428,11 @@
             {
               "code": "de-by-ul",
               "name": "ul",
+              "regions": []
+            },
+            {
+              "code": "de-by-west",
+              "name": "west",
               "regions": []
             },
             {
@@ -4480,6 +4500,11 @@
         {
           "code": "de-fra",
           "name": "fra",
+          "regions": []
+        },
+        {
+          "code": "de-franken",
+          "name": "franken",
           "regions": []
         },
         {
@@ -4887,6 +4912,11 @@
             {
               "code": "de-ni-ue",
               "name": "ue",
+              "regions": []
+            },
+            {
+              "code": "de-ni-wbl",
+              "name": "wbl",
               "regions": []
             },
             {
@@ -5511,6 +5541,11 @@
               "regions": []
             },
             {
+              "code": "de-th-il",
+              "name": "il",
+              "regions": []
+            },
+            {
               "code": "de-th-j",
               "name": "j",
               "regions": []
@@ -6109,6 +6144,11 @@
         {
           "code": "gb-nw",
           "name": "nw",
+          "regions": []
+        },
+        {
+          "code": "gb-nwk",
+          "name": "nwk",
           "regions": []
         },
         {
@@ -6867,6 +6907,11 @@
           "regions": []
         },
         {
+          "code": "nl-bzm",
+          "name": "bzm",
+          "regions": []
+        },
+        {
           "code": "nl-cas",
           "name": "cas",
           "regions": []
@@ -7096,6 +7141,11 @@
           "regions": []
         },
         {
+          "code": "nl-hsl",
+          "name": "hsl",
+          "regions": []
+        },
+        {
           "code": "nl-htb",
           "name": "htb",
           "regions": []
@@ -7134,6 +7184,11 @@
         {
           "code": "nl-lmm",
           "name": "lmm",
+          "regions": []
+        },
+        {
+          "code": "nl-mdl",
+          "name": "mdl",
           "regions": []
         },
         {
@@ -7439,7 +7494,13 @@
         {
           "code": "nl-ze",
           "name": "Zeeland",
-          "regions": []
+          "regions": [
+            {
+              "code": "nl-ze-mdl",
+              "name": "mdl",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "nl-zh",
@@ -7453,6 +7514,11 @@
             {
               "code": "nl-zh-drechtsteden",
               "name": "drechtsteden",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-gof",
+              "name": "gof",
               "regions": []
             },
             {
@@ -7481,8 +7547,18 @@
               "regions": []
             },
             {
+              "code": "nl-zh-odu",
+              "name": "odu",
+              "regions": []
+            },
+            {
               "code": "nl-zh-pin",
               "name": "pin",
+              "regions": []
+            },
+            {
+              "code": "nl-zh-roc",
+              "name": "roc",
               "regions": []
             },
             {
@@ -8332,6 +8408,10 @@
     {
       "path": "at-ooe-ll",
       "name": "ll"
+    },
+    {
+      "path": "at-ooe-nord",
+      "name": "nord"
     },
     {
       "path": "at-ooe-pe",
@@ -11146,6 +11226,10 @@
       "name": "cb"
     },
     {
+      "path": "de-bb-cw",
+      "name": "cw"
+    },
+    {
       "path": "de-bb-ee",
       "name": "ee"
     },
@@ -11710,6 +11794,10 @@
       "name": "pa"
     },
     {
+      "path": "de-by-pan",
+      "name": "pan"
+    },
+    {
       "path": "de-by-rgbg",
       "name": "rgbg"
     },
@@ -11752,6 +11840,10 @@
     {
       "path": "de-by-ul",
       "name": "ul"
+    },
+    {
+      "path": "de-by-west",
+      "name": "west"
     },
     {
       "path": "de-by-wm",
@@ -11804,6 +11896,10 @@
     {
       "path": "de-fra",
       "name": "fra"
+    },
+    {
+      "path": "de-franken",
+      "name": "franken"
     },
     {
       "path": "de-fri",
@@ -12124,6 +12220,10 @@
     {
       "path": "de-ni-ue",
       "name": "ue"
+    },
+    {
+      "path": "de-ni-wbl",
+      "name": "wbl"
     },
     {
       "path": "de-ni-wf",
@@ -12594,6 +12694,10 @@
       "name": "hbn"
     },
     {
+      "path": "de-th-il",
+      "name": "il"
+    },
+    {
       "path": "de-th-j",
       "name": "j"
     },
@@ -13048,6 +13152,10 @@
     {
       "path": "gb-nw",
       "name": "nw"
+    },
+    {
+      "path": "gb-nwk",
+      "name": "nwk"
     },
     {
       "path": "gb-sco",
@@ -13658,6 +13766,10 @@
       "name": "brd"
     },
     {
+      "path": "nl-bzm",
+      "name": "bzm"
+    },
+    {
       "path": "nl-cas",
       "name": "cas"
     },
@@ -13838,6 +13950,10 @@
       "name": "hrv"
     },
     {
+      "path": "nl-hsl",
+      "name": "hsl"
+    },
+    {
       "path": "nl-htb",
       "name": "htb"
     },
@@ -13868,6 +13984,10 @@
     {
       "path": "nl-lmm",
       "name": "lmm"
+    },
+    {
+      "path": "nl-mdl",
+      "name": "mdl"
     },
     {
       "path": "nl-nb",
@@ -14110,6 +14230,10 @@
       "name": "Zeeland"
     },
     {
+      "path": "nl-ze-mdl",
+      "name": "mdl"
+    },
+    {
       "path": "nl-zh",
       "name": "Zuid-Holland"
     },
@@ -14120,6 +14244,10 @@
     {
       "path": "nl-zh-drechtsteden",
       "name": "drechtsteden"
+    },
+    {
+      "path": "nl-zh-gof",
+      "name": "gof"
     },
     {
       "path": "nl-zh-hag",
@@ -14142,8 +14270,16 @@
       "name": "ndp"
     },
     {
+      "path": "nl-zh-odu",
+      "name": "odu"
+    },
+    {
       "path": "nl-zh-pin",
       "name": "pin"
+    },
+    {
+      "path": "nl-zh-roc",
+      "name": "roc"
     },
     {
       "path": "nl-zh-rtm",

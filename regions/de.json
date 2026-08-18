@@ -47,6 +47,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-cw",
+          "name": "cw",
+          "regions": []
+        },
+        {
           "code": "de-bb-ee",
           "name": "ee",
           "regions": []
@@ -761,6 +766,11 @@
           "regions": []
         },
         {
+          "code": "de-by-pan",
+          "name": "pan",
+          "regions": []
+        },
+        {
           "code": "de-by-rgbg",
           "name": "rgbg",
           "regions": []
@@ -814,6 +824,11 @@
         {
           "code": "de-by-ul",
           "name": "ul",
+          "regions": []
+        },
+        {
+          "code": "de-by-west",
+          "name": "west",
           "regions": []
         },
         {
@@ -881,6 +896,11 @@
     {
       "code": "de-fra",
       "name": "fra",
+      "regions": []
+    },
+    {
+      "code": "de-franken",
+      "name": "franken",
       "regions": []
     },
     {
@@ -1288,6 +1308,11 @@
         {
           "code": "de-ni-ue",
           "name": "ue",
+          "regions": []
+        },
+        {
+          "code": "de-ni-wbl",
+          "name": "wbl",
           "regions": []
         },
         {
@@ -1909,6 +1934,11 @@
         {
           "code": "de-th-hbn",
           "name": "hbn",
+          "regions": []
+        },
+        {
+          "code": "de-th-il",
+          "name": "il",
           "regions": []
         },
         {

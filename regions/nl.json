@@ -48,6 +48,11 @@
       "regions": []
     },
     {
+      "code": "nl-bzm",
+      "name": "bzm",
+      "regions": []
+    },
+    {
       "code": "nl-cas",
       "name": "cas",
       "regions": []
@@ -277,6 +282,11 @@
       "regions": []
     },
     {
+      "code": "nl-hsl",
+      "name": "hsl",
+      "regions": []
+    },
+    {
       "code": "nl-htb",
       "name": "htb",
       "regions": []
@@ -315,6 +325,11 @@
     {
       "code": "nl-lmm",
       "name": "lmm",
+      "regions": []
+    },
+    {
+      "code": "nl-mdl",
+      "name": "mdl",
       "regions": []
     },
     {
@@ -620,7 +635,13 @@
     {
       "code": "nl-ze",
       "name": "Zeeland",
-      "regions": []
+      "regions": [
+        {
+          "code": "nl-ze-mdl",
+          "name": "mdl",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "nl-zh",
@@ -634,6 +655,11 @@
         {
           "code": "nl-zh-drechtsteden",
           "name": "drechtsteden",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-gof",
+          "name": "gof",
           "regions": []
         },
         {
@@ -662,8 +688,18 @@
           "regions": []
         },
         {
+          "code": "nl-zh-odu",
+          "name": "odu",
+          "regions": []
+        },
+        {
           "code": "nl-zh-pin",
           "name": "pin",
+          "regions": []
+        },
+        {
+          "code": "nl-zh-roc",
+          "name": "roc",
           "regions": []
         },
         {
