@@ -52,6 +52,11 @@
           "regions": []
         },
         {
+          "code": "at-ooe-nord",
+          "name": "nord",
+          "regions": []
+        },
+        {
           "code": "at-ooe-pe",
           "name": "pe",
           "regions": []
