@@ -23,6 +23,21 @@
       "regions": []
     },
     {
+      "code": "at-frq",
+      "name": "frq",
+      "regions": []
+    },
+    {
+      "code": "at-ktn",
+      "name": "ktn",
+      "regions": []
+    },
+    {
+      "code": "at-lf",
+      "name": "lf",
+      "regions": []
+    },
+    {
       "code": "at-ll",
       "name": "ll",
       "regions": []
@@ -76,6 +91,16 @@
     {
       "code": "at-ost",
       "name": "ost",
+      "regions": []
+    },
+    {
+      "code": "at-p",
+      "name": "p",
+      "regions": []
+    },
+    {
+      "code": "at-pl",
+      "name": "pl",
       "regions": []
     },
     {

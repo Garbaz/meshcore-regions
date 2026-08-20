@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:37:37Z",
+  "generated_at": "2026-08-20T03:39:34Z",
   "tree": [
     {
       "code": "ad",
@@ -81,6 +81,21 @@
           "regions": []
         },
         {
+          "code": "at-frq",
+          "name": "frq",
+          "regions": []
+        },
+        {
+          "code": "at-ktn",
+          "name": "ktn",
+          "regions": []
+        },
+        {
+          "code": "at-lf",
+          "name": "lf",
+          "regions": []
+        },
+        {
           "code": "at-ll",
           "name": "ll",
           "regions": []
@@ -134,6 +149,16 @@
         {
           "code": "at-ost",
           "name": "ost",
+          "regions": []
+        },
+        {
+          "code": "at-p",
+          "name": "p",
+          "regions": []
+        },
+        {
+          "code": "at-pl",
+          "name": "pl",
           "regions": []
         },
         {
@@ -4658,6 +4683,11 @@
           "regions": []
         },
         {
+          "code": "de-ks",
+          "name": "ks",
+          "regions": []
+        },
+        {
           "code": "de-laho",
           "name": "laho",
           "regions": []
@@ -5504,7 +5534,13 @@
         {
           "code": "de-str",
           "name": "str",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-str-s",
+              "name": "s",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-su",
@@ -5750,6 +5786,11 @@
           "regions": []
         },
         {
+          "code": "dk-kbh",
+          "name": "kbh",
+          "regions": []
+        },
+        {
           "code": "dk-mj",
           "name": "mj",
           "regions": []
@@ -5940,6 +5981,11 @@
         {
           "code": "fr-56",
           "name": "56",
+          "regions": []
+        },
+        {
+          "code": "fr-57",
+          "name": "57",
           "regions": []
         },
         {
@@ -7802,6 +7848,11 @@
               "regions": []
             }
           ]
+        },
+        {
+          "code": "pt-lisboa",
+          "name": "lisboa",
+          "regions": []
         }
       ]
     },
@@ -8386,6 +8437,18 @@
       "name": "de"
     },
     {
+      "path": "at-frq",
+      "name": "frq"
+    },
+    {
+      "path": "at-ktn",
+      "name": "ktn"
+    },
+    {
+      "path": "at-lf",
+      "name": "lf"
+    },
+    {
       "path": "at-ll",
       "name": "ll"
     },
@@ -8428,6 +8491,14 @@
     {
       "path": "at-ost",
       "name": "ost"
+    },
+    {
+      "path": "at-p",
+      "name": "p"
+    },
+    {
+      "path": "at-pl",
+      "name": "pl"
     },
     {
       "path": "at-sbg",
@@ -12018,6 +12089,10 @@
       "name": "koblenz"
     },
     {
+      "path": "de-ks",
+      "name": "ks"
+    },
+    {
       "path": "de-laho",
       "name": "laho"
     },
@@ -12666,6 +12741,10 @@
       "name": "str"
     },
     {
+      "path": "de-str-s",
+      "name": "s"
+    },
+    {
       "path": "de-su",
       "name": "su"
     },
@@ -12834,6 +12913,10 @@
       "name": "jyllandregion"
     },
     {
+      "path": "dk-kbh",
+      "name": "kbh"
+    },
+    {
       "path": "dk-mj",
       "name": "mj"
     },
@@ -12992,6 +13075,10 @@
     {
       "path": "fr-56",
       "name": "56"
+    },
+    {
+      "path": "fr-57",
+      "name": "57"
     },
     {
       "path": "fr-67",
@@ -14468,6 +14555,10 @@
     {
       "path": "pt-lis-mfr",
       "name": "mfr"
+    },
+    {
+      "path": "pt-lisboa",
+      "name": "lisboa"
     },
     {
       "path": "pw",

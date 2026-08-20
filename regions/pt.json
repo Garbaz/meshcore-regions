@@ -22,6 +22,11 @@
           "regions": []
         }
       ]
+    },
+    {
+      "code": "pt-lisboa",
+      "name": "lisboa",
+      "regions": []
     }
   ]
 }
