@@ -1054,6 +1054,11 @@
       "regions": []
     },
     {
+      "code": "de-ks",
+      "name": "ks",
+      "regions": []
+    },
+    {
       "code": "de-laho",
       "name": "laho",
       "regions": []
@@ -1900,7 +1905,13 @@
     {
       "code": "de-str",
       "name": "str",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-str-s",
+          "name": "s",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-su",
