@@ -1056,7 +1056,13 @@
     {
       "code": "de-ks",
       "name": "ks",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-ks-goe",
+          "name": "goe",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-laho",
@@ -1178,7 +1184,13 @@
     {
       "code": "de-ne",
       "name": "ne",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-ne-aur",
+          "name": "aur",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-ni",
@@ -1202,6 +1214,11 @@
         {
           "code": "de-ni-dan",
           "name": "dan",
+          "regions": []
+        },
+        {
+          "code": "de-ni-emd",
+          "name": "emd",
           "regions": []
         },
         {
@@ -1695,6 +1712,11 @@
     {
       "code": "de-saa",
       "name": "saa",
+      "regions": []
+    },
+    {
+      "code": "de-saarlorlux",
+      "name": "saarlorlux",
       "regions": []
     },
     {

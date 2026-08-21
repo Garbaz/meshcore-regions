@@ -23,6 +23,11 @@
       "regions": []
     },
     {
+      "code": "fr-33",
+      "name": "33",
+      "regions": []
+    },
+    {
       "code": "fr-35",
       "name": "35",
       "regions": []
@@ -130,8 +135,18 @@
       "regions": []
     },
     {
+      "code": "fr-bod",
+      "name": "bod",
+      "regions": []
+    },
+    {
       "code": "fr-bre",
       "name": "bre",
+      "regions": []
+    },
+    {
+      "code": "fr-brest",
+      "name": "brest",
       "regions": []
     },
     {

@@ -109,6 +109,11 @@
           "code": "it-lom-mi",
           "name": "Milano",
           "regions": []
+        },
+        {
+          "code": "it-lom-va",
+          "name": "va",
+          "regions": []
         }
       ]
     },
