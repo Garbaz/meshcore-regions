@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-20T03:39:34Z",
+  "generated_at": "2026-08-21T03:43:49Z",
   "buckets": {
     "a": [
+      {
+        "raw": "a",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
+      },
       {
         "raw": "a5b3",
         "reason": "no_root",
@@ -262,27 +267,27 @@
       {
         "raw": "beaab",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beaar",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beaff",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beanr",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bebct",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bebin",
@@ -292,37 +297,37 @@
       {
         "raw": "bebln",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bebru",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bebye",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "becar",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "becet",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "becfo",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "becgx",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beckingen",
@@ -332,82 +337,82 @@
       {
         "raw": "bedis",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bedrw",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beegm",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beeup",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "befro",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "begem",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "behat",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "behez",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "behov",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "behrs",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bejhy",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bekon",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "belap",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "belas",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beldk",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beled",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "belgg",
@@ -422,32 +427,32 @@
       {
         "raw": "belim",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "belni",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beltz",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bemer",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bemor",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bemsu",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bend",
@@ -462,7 +467,7 @@
       {
         "raw": "bennv",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bensheim",
@@ -472,12 +477,12 @@
       {
         "raw": "benyl",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beoti",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "ber",
@@ -487,17 +492,17 @@
       {
         "raw": "berae",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beras",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "berdl",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bergischesland",
@@ -512,72 +517,72 @@
       {
         "raw": "berix",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "besce",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "besct",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "beslh",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "besou",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "betcl",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bever",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bevlv",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bewha",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bewjg",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bewkd",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bewmm",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bewvr",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bezan",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bgl",
@@ -667,7 +672,7 @@
       {
         "raw": "bonn",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "bos",
@@ -712,7 +717,7 @@
       {
         "raw": "bsmesh",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "btlfd",
@@ -778,9 +783,19 @@
         "raw": "bzg",
         "reason": "no_root",
         "first_seen": "2026-07-10T06:36:56Z"
+      },
+      {
+        "raw": "bzh",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
       }
     ],
     "c": [
+      {
+        "raw": "c",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
+      },
       {
         "raw": "c-id",
         "reason": "no_root",
@@ -959,6 +974,11 @@
     ],
     "d": [
       {
+        "raw": "d",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
+      },
+      {
         "raw": "d-a-c-h",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
@@ -1034,11 +1054,6 @@
         "first_seen": "2026-05-20T16:01:05Z"
       },
       {
-        "raw": "de-ks-goe",
-        "reason": "missing_parent:de-ks",
-        "first_seen": "2026-05-20T16:01:05Z"
-      },
-      {
         "raw": "de-leipzig-halle",
         "reason": "missing_parent:de-leipzig",
         "first_seen": "2026-06-04T04:31:07Z"
@@ -1062,11 +1077,6 @@
         "raw": "de-ni-dh",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
-      },
-      {
-        "raw": "de-ni-emd",
-        "reason": "no_root",
-        "first_seen": "2026-08-07T15:33:09Z"
       },
       {
         "raw": "de-ni-ler",
@@ -1112,6 +1122,16 @@
         "raw": "de-wn-str",
         "reason": "missing_parent:de-wn",
         "first_seen": "2026-05-24T04:28:11Z"
+      },
+      {
+        "raw": "debe",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
+      },
+      {
+        "raw": "debebb",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "den",
@@ -1177,6 +1197,11 @@
         "raw": "dk31",
         "reason": "no_root",
         "first_seen": "2026-08-16T03:41:19Z"
+      },
+      {
+        "raw": "dk34",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "dk42",
@@ -1461,7 +1486,7 @@
       {
         "raw": "drielande",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "drilanden",
@@ -1561,6 +1586,11 @@
     ],
     "e": [
       {
+        "raw": "e",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
+      },
+      {
         "raw": "e-id",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
@@ -1603,7 +1633,7 @@
       {
         "raw": "eifel",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "ekb",
@@ -1711,6 +1741,11 @@
         "first_seen": "2026-08-07T14:55:38Z"
       },
       {
+        "raw": "eu-nl-ov-ens",
+        "reason": "missing_parent:eu-nl",
+        "first_seen": "2026-08-21T03:43:49Z"
+      },
+      {
         "raw": "eug",
         "reason": "no_root",
         "first_seen": "2026-05-29T04:29:46Z"
@@ -1723,7 +1758,7 @@
       {
         "raw": "europe",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "ex",
@@ -1732,6 +1767,11 @@
       }
     ],
     "f": [
+      {
+        "raw": "f",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
+      },
       {
         "raw": "f38",
         "reason": "no_root",
@@ -2029,7 +2069,7 @@
       {
         "raw": "hansemesh",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "hdn",
@@ -2335,7 +2375,7 @@
       {
         "raw": "koeln",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "koi",
@@ -2442,7 +2482,7 @@
       {
         "raw": "leverkusen",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "lex",
@@ -2478,6 +2518,11 @@
         "raw": "lloyd-sk",
         "reason": "no_root",
         "first_seen": "2026-08-07T14:55:38Z"
+      },
+      {
+        "raw": "lm",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "lmt",
@@ -2816,7 +2861,7 @@
       {
         "raw": "niederrhein",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "nina-ruhrpott",
@@ -3129,6 +3174,11 @@
         "raw": "otnsws",
         "reason": "no_root",
         "first_seen": "2026-06-22T04:32:17Z"
+      },
+      {
+        "raw": "ov-ens",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "oxf",
@@ -3509,7 +3559,7 @@
       {
         "raw": "rhein-main",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "rhein-neckar",
@@ -3539,7 +3589,7 @@
       {
         "raw": "rheinland",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "rhine",
@@ -3619,7 +3669,7 @@
       {
         "raw": "ruhrgebiet",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       }
     ],
     "s": [
@@ -3727,6 +3777,11 @@
         "raw": "schwarzwald",
         "reason": "no_root",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "schwerin",
+        "reason": "no_root",
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "scn",
@@ -4343,7 +4398,7 @@
       {
         "raw": "trier",
         "reason": "no_root",
-        "first_seen": "2026-08-20T03:39:34Z"
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "trojmiasto",
@@ -5058,6 +5113,11 @@
         "raw": "Luebeck",
         "reason": "invalid_chars",
         "first_seen": "2026-05-20T16:01:05Z"
+      },
+      {
+        "raw": "LYS",
+        "reason": "invalid_chars",
+        "first_seen": "2026-08-21T03:43:49Z"
       },
       {
         "raw": "Meiningen",

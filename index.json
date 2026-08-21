@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:39:34Z",
+  "generated_at": "2026-08-21T03:43:49Z",
   "tree": [
     {
       "code": "ad",
@@ -4685,7 +4685,13 @@
         {
           "code": "de-ks",
           "name": "ks",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-ks-goe",
+              "name": "goe",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-laho",
@@ -4807,7 +4813,13 @@
         {
           "code": "de-ne",
           "name": "ne",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-ne-aur",
+              "name": "aur",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-ni",
@@ -4831,6 +4843,11 @@
             {
               "code": "de-ni-dan",
               "name": "dan",
+              "regions": []
+            },
+            {
+              "code": "de-ni-emd",
+              "name": "emd",
               "regions": []
             },
             {
@@ -5327,6 +5344,11 @@
           "regions": []
         },
         {
+          "code": "de-saarlorlux",
+          "name": "saarlorlux",
+          "regions": []
+        },
+        {
           "code": "de-sh",
           "name": "Schleswig-Holstein",
           "regions": [
@@ -5796,6 +5818,11 @@
           "regions": []
         },
         {
+          "code": "dk-nordsjaelland",
+          "name": "nordsjaelland",
+          "regions": []
+        },
+        {
           "code": "dk-oj",
           "name": "oj",
           "regions": []
@@ -5954,6 +5981,11 @@
           "regions": []
         },
         {
+          "code": "fr-33",
+          "name": "33",
+          "regions": []
+        },
+        {
           "code": "fr-35",
           "name": "35",
           "regions": []
@@ -6061,8 +6093,18 @@
           "regions": []
         },
         {
+          "code": "fr-bod",
+          "name": "bod",
+          "regions": []
+        },
+        {
           "code": "fr-bre",
           "name": "bre",
+          "regions": []
+        },
+        {
+          "code": "fr-brest",
+          "name": "brest",
           "regions": []
         },
         {
@@ -6506,6 +6548,11 @@
             {
               "code": "it-lom-mi",
               "name": "Milano",
+              "regions": []
+            },
+            {
+              "code": "it-lom-va",
+              "name": "va",
               "regions": []
             }
           ]
@@ -12093,6 +12140,10 @@
       "name": "ks"
     },
     {
+      "path": "de-ks-goe",
+      "name": "goe"
+    },
+    {
       "path": "de-laho",
       "name": "laho"
     },
@@ -12189,6 +12240,10 @@
       "name": "ne"
     },
     {
+      "path": "de-ne-aur",
+      "name": "aur"
+    },
+    {
       "path": "de-ni",
       "name": "Niedersachsen"
     },
@@ -12207,6 +12262,10 @@
     {
       "path": "de-ni-dan",
       "name": "dan"
+    },
+    {
+      "path": "de-ni-emd",
+      "name": "emd"
     },
     {
       "path": "de-ni-fri",
@@ -12577,6 +12636,10 @@
       "name": "saa"
     },
     {
+      "path": "de-saarlorlux",
+      "name": "saarlorlux"
+    },
+    {
       "path": "de-sh",
       "name": "Schleswig-Holstein"
     },
@@ -12921,6 +12984,10 @@
       "name": "mj"
     },
     {
+      "path": "dk-nordsjaelland",
+      "name": "nordsjaelland"
+    },
+    {
       "path": "dk-oj",
       "name": "oj"
     },
@@ -13053,6 +13120,10 @@
       "name": "29"
     },
     {
+      "path": "fr-33",
+      "name": "33"
+    },
+    {
       "path": "fr-35",
       "name": "35"
     },
@@ -13137,8 +13208,16 @@
       "name": "bfc"
     },
     {
+      "path": "fr-bod",
+      "name": "bod"
+    },
+    {
       "path": "fr-bre",
       "name": "bre"
+    },
+    {
+      "path": "fr-brest",
+      "name": "brest"
     },
     {
       "path": "fr-cvl",
@@ -13491,6 +13570,10 @@
     {
       "path": "it-lom-mi",
       "name": "Milano"
+    },
+    {
+      "path": "it-lom-va",
+      "name": "va"
     },
     {
       "path": "it-mar",
