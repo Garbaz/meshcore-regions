@@ -126,7 +126,13 @@
     {
       "code": "nl-fl",
       "name": "Flevoland",
-      "regions": []
+      "regions": [
+        {
+          "code": "nl-fl-aer",
+          "name": "aer",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "nl-fr",
@@ -419,8 +425,23 @@
           "regions": []
         },
         {
+          "code": "nl-nh-haa",
+          "name": "haa",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-hfd",
+          "name": "hfd",
+          "regions": []
+        },
+        {
           "code": "nl-nh-hke",
           "name": "hke",
+          "regions": []
+        },
+        {
+          "code": "nl-nh-hmm",
+          "name": "hmm",
           "regions": []
         },
         {
@@ -520,6 +541,16 @@
           "regions": []
         },
         {
+          "code": "nl-ov-rih",
+          "name": "rih",
+          "regions": []
+        },
+        {
+          "code": "nl-ov-rjs",
+          "name": "rjs",
+          "regions": []
+        },
+        {
           "code": "nl-ov-sew",
           "name": "sew",
           "regions": []
@@ -532,6 +563,11 @@
         {
           "code": "nl-ov-stw",
           "name": "stw",
+          "regions": []
+        },
+        {
+          "code": "nl-ov-wid",
+          "name": "wid",
           "regions": []
         }
       ]

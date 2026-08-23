@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:43:49Z",
+  "generated_at": "2026-08-23T03:43:27Z",
   "tree": [
     {
       "code": "ad",
@@ -3464,6 +3464,16 @@
           "regions": []
         },
         {
+          "code": "ch-ro",
+          "name": "ro",
+          "regions": []
+        },
+        {
+          "code": "ch-sh",
+          "name": "sh",
+          "regions": []
+        },
+        {
           "code": "ch-ti",
           "name": "ti",
           "regions": []
@@ -4498,6 +4508,11 @@
           "regions": []
         },
         {
+          "code": "de-dus",
+          "name": "dus",
+          "regions": []
+        },
+        {
           "code": "de-emd",
           "name": "emd",
           "regions": []
@@ -4535,7 +4550,13 @@
         {
           "code": "de-fri",
           "name": "fri",
-          "regions": []
+          "regions": [
+            {
+              "code": "de-fri-whv",
+              "name": "whv",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "de-gl",
@@ -5309,6 +5330,11 @@
             {
               "code": "de-rp-koblenz",
               "name": "koblenz",
+              "regions": []
+            },
+            {
+              "code": "de-rp-sp",
+              "name": "sp",
               "regions": []
             },
             {
@@ -7078,7 +7104,13 @@
         {
           "code": "nl-fl",
           "name": "Flevoland",
-          "regions": []
+          "regions": [
+            {
+              "code": "nl-fl-aer",
+              "name": "aer",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "nl-fr",
@@ -7371,8 +7403,23 @@
               "regions": []
             },
             {
+              "code": "nl-nh-haa",
+              "name": "haa",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-hfd",
+              "name": "hfd",
+              "regions": []
+            },
+            {
               "code": "nl-nh-hke",
               "name": "hke",
+              "regions": []
+            },
+            {
+              "code": "nl-nh-hmm",
+              "name": "hmm",
               "regions": []
             },
             {
@@ -7472,6 +7519,16 @@
               "regions": []
             },
             {
+              "code": "nl-ov-rih",
+              "name": "rih",
+              "regions": []
+            },
+            {
+              "code": "nl-ov-rjs",
+              "name": "rjs",
+              "regions": []
+            },
+            {
               "code": "nl-ov-sew",
               "name": "sew",
               "regions": []
@@ -7484,6 +7541,11 @@
             {
               "code": "nl-ov-stw",
               "name": "stw",
+              "regions": []
+            },
+            {
+              "code": "nl-ov-wid",
+              "name": "wid",
               "regions": []
             }
           ]
@@ -8101,7 +8163,18 @@
     {
       "code": "sk",
       "name": "Slovakia",
-      "regions": []
+      "regions": [
+        {
+          "code": "sk-ba",
+          "name": "ba",
+          "regions": []
+        },
+        {
+          "code": "sk-ma",
+          "name": "ma",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "sl",
@@ -11180,6 +11253,14 @@
       "name": "rg"
     },
     {
+      "path": "ch-ro",
+      "name": "ro"
+    },
+    {
+      "path": "ch-sh",
+      "name": "sh"
+    },
+    {
       "path": "ch-ti",
       "name": "ti"
     },
@@ -11992,6 +12073,10 @@
       "name": "doomsday"
     },
     {
+      "path": "de-dus",
+      "name": "dus"
+    },
+    {
       "path": "de-emd",
       "name": "emd"
     },
@@ -12022,6 +12107,10 @@
     {
       "path": "de-fri",
       "name": "fri"
+    },
+    {
+      "path": "de-fri-whv",
+      "name": "whv"
     },
     {
       "path": "de-gl",
@@ -12610,6 +12699,10 @@
     {
       "path": "de-rp-koblenz",
       "name": "koblenz"
+    },
+    {
+      "path": "de-rp-sp",
+      "name": "sp"
     },
     {
       "path": "de-rp-wei",
@@ -14000,6 +14093,10 @@
       "name": "Flevoland"
     },
     {
+      "path": "nl-fl-aer",
+      "name": "aer"
+    },
+    {
       "path": "nl-fr",
       "name": "Friesland"
     },
@@ -14228,8 +14325,20 @@
       "name": "gok"
     },
     {
+      "path": "nl-nh-haa",
+      "name": "haa"
+    },
+    {
+      "path": "nl-nh-hfd",
+      "name": "hfd"
+    },
+    {
       "path": "nl-nh-hke",
       "name": "hke"
+    },
+    {
+      "path": "nl-nh-hmm",
+      "name": "hmm"
     },
     {
       "path": "nl-nh-hrn",
@@ -14308,6 +14417,14 @@
       "name": "nvd"
     },
     {
+      "path": "nl-ov-rih",
+      "name": "rih"
+    },
+    {
+      "path": "nl-ov-rjs",
+      "name": "rjs"
+    },
+    {
       "path": "nl-ov-sew",
       "name": "sew"
     },
@@ -14318,6 +14435,10 @@
     {
       "path": "nl-ov-stw",
       "name": "stw"
+    },
+    {
+      "path": "nl-ov-wid",
+      "name": "wid"
     },
     {
       "path": "nl-rhe",
@@ -14810,6 +14931,14 @@
     {
       "path": "sk",
       "name": "Slovakia"
+    },
+    {
+      "path": "sk-ba",
+      "name": "ba"
+    },
+    {
+      "path": "sk-ma",
+      "name": "ma"
     },
     {
       "path": "sl",

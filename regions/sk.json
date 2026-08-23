@@ -1,5 +1,16 @@
 {
   "code": "sk",
   "name": "Slovakia",
-  "regions": []
+  "regions": [
+    {
+      "code": "sk-ba",
+      "name": "ba",
+      "regions": []
+    },
+    {
+      "code": "sk-ma",
+      "name": "ma",
+      "regions": []
+    }
+  ]
 }

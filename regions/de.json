@@ -869,6 +869,11 @@
       "regions": []
     },
     {
+      "code": "de-dus",
+      "name": "dus",
+      "regions": []
+    },
+    {
       "code": "de-emd",
       "name": "emd",
       "regions": []
@@ -906,7 +911,13 @@
     {
       "code": "de-fri",
       "name": "fri",
-      "regions": []
+      "regions": [
+        {
+          "code": "de-fri-whv",
+          "name": "whv",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "de-gl",
@@ -1680,6 +1691,11 @@
         {
           "code": "de-rp-koblenz",
           "name": "koblenz",
+          "regions": []
+        },
+        {
+          "code": "de-rp-sp",
+          "name": "sp",
           "regions": []
         },
         {
