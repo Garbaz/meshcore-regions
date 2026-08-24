@@ -356,6 +356,16 @@
           "code": "nl-nb-htb",
           "name": "htb",
           "regions": []
+        },
+        {
+          "code": "nl-nb-smg",
+          "name": "smg",
+          "regions": []
+        },
+        {
+          "code": "nl-nb-vgt",
+          "name": "vgt",
+          "regions": []
         }
       ]
     },

@@ -49,6 +49,11 @@
       "regions": []
     },
     {
+      "code": "au-vic",
+      "name": "vic",
+      "regions": []
+    },
+    {
       "code": "au-wa",
       "name": "wa",
       "regions": [

@@ -8,6 +8,21 @@
       "regions": []
     },
     {
+      "code": "it-bas",
+      "name": "bas",
+      "regions": []
+    },
+    {
+      "code": "it-cal",
+      "name": "cal",
+      "regions": []
+    },
+    {
+      "code": "it-cam",
+      "name": "cam",
+      "regions": []
+    },
+    {
       "code": "it-ch",
       "name": "ch",
       "regions": []
@@ -123,6 +138,11 @@
       "regions": []
     },
     {
+      "code": "it-mol",
+      "name": "mol",
+      "regions": []
+    },
+    {
       "code": "it-nord",
       "name": "nord",
       "regions": []
@@ -166,8 +186,18 @@
           "code": "it-pie-to",
           "name": "Torino",
           "regions": []
+        },
+        {
+          "code": "it-pie-vb",
+          "name": "vb",
+          "regions": []
         }
       ]
+    },
+    {
+      "code": "it-pug",
+      "name": "pug",
+      "regions": []
     },
     {
       "code": "it-sar",
