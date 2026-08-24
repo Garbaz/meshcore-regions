@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:43:27Z",
+  "generated_at": "2026-08-24T03:47:32Z",
   "tree": [
     {
       "code": "ad",
@@ -285,6 +285,11 @@
         {
           "code": "au-qld",
           "name": "qld",
+          "regions": []
+        },
+        {
+          "code": "au-vic",
+          "name": "vic",
           "regions": []
         },
         {
@@ -3741,6 +3746,11 @@
               "regions": []
             },
             {
+              "code": "de-bb-tf",
+              "name": "tf",
+              "regions": []
+            },
+            {
               "code": "de-bb-um",
               "name": "um",
               "regions": []
@@ -4614,6 +4624,11 @@
           "code": "de-he",
           "name": "Hessen",
           "regions": [
+            {
+              "code": "de-he-fb",
+              "name": "fb",
+              "regions": []
+            },
             {
               "code": "de-he-fd",
               "name": "fd",
@@ -6474,6 +6489,21 @@
           "regions": []
         },
         {
+          "code": "it-bas",
+          "name": "bas",
+          "regions": []
+        },
+        {
+          "code": "it-cal",
+          "name": "cal",
+          "regions": []
+        },
+        {
+          "code": "it-cam",
+          "name": "cam",
+          "regions": []
+        },
+        {
           "code": "it-ch",
           "name": "ch",
           "regions": []
@@ -6589,6 +6619,11 @@
           "regions": []
         },
         {
+          "code": "it-mol",
+          "name": "mol",
+          "regions": []
+        },
+        {
           "code": "it-nord",
           "name": "nord",
           "regions": []
@@ -6632,8 +6667,18 @@
               "code": "it-pie-to",
               "name": "Torino",
               "regions": []
+            },
+            {
+              "code": "it-pie-vb",
+              "name": "vb",
+              "regions": []
             }
           ]
+        },
+        {
+          "code": "it-pug",
+          "name": "pug",
+          "regions": []
         },
         {
           "code": "it-sar",
@@ -7333,6 +7378,16 @@
             {
               "code": "nl-nb-htb",
               "name": "htb",
+              "regions": []
+            },
+            {
+              "code": "nl-nb-smg",
+              "name": "smg",
+              "regions": []
+            },
+            {
+              "code": "nl-nb-vgt",
+              "name": "vgt",
               "regions": []
             }
           ]
@@ -8715,6 +8770,10 @@
     {
       "path": "au-qld",
       "name": "qld"
+    },
+    {
+      "path": "au-vic",
+      "name": "vic"
     },
     {
       "path": "au-wa",
@@ -11469,6 +11528,10 @@
       "name": "pm"
     },
     {
+      "path": "de-bb-tf",
+      "name": "tf"
+    },
+    {
       "path": "de-bb-um",
       "name": "um"
     },
@@ -12155,6 +12218,10 @@
     {
       "path": "de-he",
       "name": "Hessen"
+    },
+    {
+      "path": "de-he-fb",
+      "name": "fb"
     },
     {
       "path": "de-he-fd",
@@ -13585,6 +13652,18 @@
       "name": "abr"
     },
     {
+      "path": "it-bas",
+      "name": "bas"
+    },
+    {
+      "path": "it-cal",
+      "name": "cal"
+    },
+    {
+      "path": "it-cam",
+      "name": "cam"
+    },
+    {
       "path": "it-ch",
       "name": "ch"
     },
@@ -13673,6 +13752,10 @@
       "name": "mar"
     },
     {
+      "path": "it-mol",
+      "name": "mol"
+    },
+    {
       "path": "it-nord",
       "name": "nord"
     },
@@ -13707,6 +13790,14 @@
     {
       "path": "it-pie-to",
       "name": "Torino"
+    },
+    {
+      "path": "it-pie-vb",
+      "name": "vb"
+    },
+    {
+      "path": "it-pug",
+      "name": "pug"
     },
     {
       "path": "it-sar",
@@ -14271,6 +14362,14 @@
     {
       "path": "nl-nb-htb",
       "name": "htb"
+    },
+    {
+      "path": "nl-nb-smg",
+      "name": "smg"
+    },
+    {
+      "path": "nl-nb-vgt",
+      "name": "vgt"
     },
     {
       "path": "nl-nh",

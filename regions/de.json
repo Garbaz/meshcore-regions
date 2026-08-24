@@ -102,6 +102,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-tf",
+          "name": "tf",
+          "regions": []
+        },
+        {
           "code": "de-bb-um",
           "name": "um",
           "regions": []
@@ -975,6 +980,11 @@
       "code": "de-he",
       "name": "Hessen",
       "regions": [
+        {
+          "code": "de-he-fb",
+          "name": "fb",
+          "regions": []
+        },
         {
           "code": "de-he-fd",
           "name": "fd",
