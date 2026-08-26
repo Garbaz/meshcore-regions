@@ -102,6 +102,11 @@
           "regions": []
         },
         {
+          "code": "de-bb-pr",
+          "name": "pr",
+          "regions": []
+        },
+        {
           "code": "de-bb-tf",
           "name": "tf",
           "regions": []
