@@ -5,7 +5,13 @@
     {
       "code": "pt-anepc",
       "name": "anepc",
-      "regions": []
+      "regions": [
+        {
+          "code": "pt-anepc-norte",
+          "name": "norte",
+          "regions": []
+        }
+      ]
     },
     {
       "code": "pt-lis",
@@ -26,6 +32,11 @@
     {
       "code": "pt-lisboa",
       "name": "lisboa",
+      "regions": []
+    },
+    {
+      "code": "pt-porto",
+      "name": "porto",
       "regions": []
     }
   ]

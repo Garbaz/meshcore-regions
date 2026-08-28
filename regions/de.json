@@ -329,6 +329,11 @@
           "regions": []
         },
         {
+          "code": "de-bw-ost",
+          "name": "ost",
+          "regions": []
+        },
+        {
           "code": "de-bw-pf",
           "name": "pf",
           "regions": []
@@ -381,6 +386,11 @@
         {
           "code": "de-bw-swb",
           "name": "swb",
+          "regions": []
+        },
+        {
+          "code": "de-bw-ttm",
+          "name": "ttm",
           "regions": []
         },
         {
@@ -465,6 +475,11 @@
       "code": "de-by",
       "name": "Bayern",
       "regions": [
+        {
+          "code": "de-by-an",
+          "name": "an",
+          "regions": []
+        },
         {
           "code": "de-by-aux",
           "name": "aux",
@@ -1795,6 +1810,17 @@
           "regions": []
         },
         {
+          "code": "de-sh-rdeck",
+          "name": "rdeck",
+          "regions": [
+            {
+              "code": "de-sh-rdeck-eck",
+              "name": "eck",
+              "regions": []
+            }
+          ]
+        },
+        {
           "code": "de-sh-slfl",
           "name": "Schleswig-Flensburg",
           "regions": []
@@ -1934,6 +1960,11 @@
           "regions": []
         },
         {
+          "code": "de-st-de",
+          "name": "de",
+          "regions": []
+        },
+        {
           "code": "de-st-hbs",
           "name": "hbs",
           "regions": []
@@ -1974,6 +2005,11 @@
     {
       "code": "de-sued",
       "name": "Süddeutschland",
+      "regions": []
+    },
+    {
+      "code": "de-sz",
+      "name": "sz",
       "regions": []
     },
     {
