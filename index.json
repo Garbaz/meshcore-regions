@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:47:04Z",
+  "generated_at": "2026-08-28T14:46:15Z",
   "tree": [
     {
       "code": "ad",
@@ -3978,6 +3978,11 @@
               "regions": []
             },
             {
+              "code": "de-bw-ost",
+              "name": "ost",
+              "regions": []
+            },
+            {
               "code": "de-bw-pf",
               "name": "pf",
               "regions": []
@@ -4030,6 +4035,11 @@
             {
               "code": "de-bw-swb",
               "name": "swb",
+              "regions": []
+            },
+            {
+              "code": "de-bw-ttm",
+              "name": "ttm",
               "regions": []
             },
             {
@@ -4114,6 +4124,11 @@
           "code": "de-by",
           "name": "Bayern",
           "regions": [
+            {
+              "code": "de-by-an",
+              "name": "an",
+              "regions": []
+            },
             {
               "code": "de-by-aux",
               "name": "aux",
@@ -5444,6 +5459,17 @@
               "regions": []
             },
             {
+              "code": "de-sh-rdeck",
+              "name": "rdeck",
+              "regions": [
+                {
+                  "code": "de-sh-rdeck-eck",
+                  "name": "eck",
+                  "regions": []
+                }
+              ]
+            },
+            {
               "code": "de-sh-slfl",
               "name": "Schleswig-Flensburg",
               "regions": []
@@ -5583,6 +5609,11 @@
               "regions": []
             },
             {
+              "code": "de-st-de",
+              "name": "de",
+              "regions": []
+            },
+            {
               "code": "de-st-hbs",
               "name": "hbs",
               "regions": []
@@ -5623,6 +5654,11 @@
         {
           "code": "de-sued",
           "name": "Süddeutschland",
+          "regions": []
+        },
+        {
+          "code": "de-sz",
+          "name": "sz",
           "regions": []
         },
         {
@@ -6014,6 +6050,11 @@
         {
           "code": "fr-01",
           "name": "01",
+          "regions": []
+        },
+        {
+          "code": "fr-13",
+          "name": "13",
           "regions": []
         },
         {
@@ -7331,6 +7372,11 @@
           "regions": []
         },
         {
+          "code": "nl-hui",
+          "name": "hui",
+          "regions": []
+        },
+        {
           "code": "nl-hv",
           "name": "hv",
           "regions": []
@@ -7374,6 +7420,11 @@
         {
           "code": "nl-mdl",
           "name": "mdl",
+          "regions": []
+        },
+        {
+          "code": "nl-naa",
+          "name": "naa",
           "regions": []
         },
         {
@@ -8015,7 +8066,13 @@
         {
           "code": "pt-anepc",
           "name": "anepc",
-          "regions": []
+          "regions": [
+            {
+              "code": "pt-anepc-norte",
+              "name": "norte",
+              "regions": []
+            }
+          ]
         },
         {
           "code": "pt-lis",
@@ -8036,6 +8093,11 @@
         {
           "code": "pt-lisboa",
           "name": "lisboa",
+          "regions": []
+        },
+        {
+          "code": "pt-porto",
+          "name": "porto",
           "regions": []
         }
       ]
@@ -11732,6 +11794,10 @@
       "name": "og"
     },
     {
+      "path": "de-bw-ost",
+      "name": "ost"
+    },
+    {
       "path": "de-bw-pf",
       "name": "pf"
     },
@@ -11774,6 +11840,10 @@
     {
       "path": "de-bw-swb",
       "name": "swb"
+    },
+    {
+      "path": "de-bw-ttm",
+      "name": "ttm"
     },
     {
       "path": "de-bw-tue",
@@ -11838,6 +11908,10 @@
     {
       "path": "de-by",
       "name": "Bayern"
+    },
+    {
+      "path": "de-by-an",
+      "name": "an"
     },
     {
       "path": "de-by-aux",
@@ -12864,6 +12938,14 @@
       "name": "Rendsburg-Eckernförde"
     },
     {
+      "path": "de-sh-rdeck",
+      "name": "rdeck"
+    },
+    {
+      "path": "de-sh-rdeck-eck",
+      "name": "eck"
+    },
+    {
       "path": "de-sh-slfl",
       "name": "Schleswig-Flensburg"
     },
@@ -12972,6 +13054,10 @@
       "name": "blk"
     },
     {
+      "path": "de-st-de",
+      "name": "de"
+    },
+    {
       "path": "de-st-hbs",
       "name": "hbs"
     },
@@ -13002,6 +13088,10 @@
     {
       "path": "de-sued",
       "name": "Süddeutschland"
+    },
+    {
+      "path": "de-sz",
+      "name": "sz"
     },
     {
       "path": "de-test",
@@ -13294,6 +13384,10 @@
     {
       "path": "fr-01",
       "name": "01"
+    },
+    {
+      "path": "fr-13",
+      "name": "13"
     },
     {
       "path": "fr-22",
@@ -14344,6 +14438,10 @@
       "name": "htb"
     },
     {
+      "path": "nl-hui",
+      "name": "hui"
+    },
+    {
       "path": "nl-hv",
       "name": "hv"
     },
@@ -14378,6 +14476,10 @@
     {
       "path": "nl-mdl",
       "name": "mdl"
+    },
+    {
+      "path": "nl-naa",
+      "name": "naa"
     },
     {
       "path": "nl-nb",
@@ -14884,6 +14986,10 @@
       "name": "anepc"
     },
     {
+      "path": "pt-anepc-norte",
+      "name": "norte"
+    },
+    {
       "path": "pt-lis",
       "name": "lis"
     },
@@ -14898,6 +15004,10 @@
     {
       "path": "pt-lisboa",
       "name": "lisboa"
+    },
+    {
+      "path": "pt-porto",
+      "name": "porto"
     },
     {
       "path": "pw",
